@@ -1,0 +1,44 @@
+# The hourly live run: load the store from Cloudflare R2, fetch and analyse the last hour (npm run live), save
+# the store, then build the site and publish it to Cloudflare Pages. Secrets: TWITTERAPI_IO_KEY,
+# FINNHUB_API_KEY, CLAUDE_CODE_OAUTH_TOKEN (from `claude setup-token`), CLOUDFLARE_API_TOKEN,
+# CLOUDFLARE_ACCOUNT_ID.
+name: Live
+
+on:
+  schedule:
+    - cron: '7 * * * *' # every hour, a few minutes past (GitHub may start it a little later)
+  workflow_dispatch: # run by hand from the Actions tab
+
+concurrency:
+  group: live # one run at a time; a new one waits for the last
+  cancel-in-progress: false
+
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    env:
+      TWITTERAPI_IO_KEY: ${{ secrets.TWITTERAPI_IO_KEY }}
+      FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+      CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm install -g @anthropic-ai/claude-code
+      - name: Load the store
+        id: pull
+        run: scripts/store.sh pull
+      - name: Fetch and analyse
+        run: npm run live
+      - name: Save the store
+        # Keep what this run fetched even if analysis failed, but only on top of a store that loaded.
+        if: ${{ !cancelled() && steps.pull.outcome == 'success' }}
+        run: scripts/store.sh push
+      - name: Build and publish
+        run: npm run deploy

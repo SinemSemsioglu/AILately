@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI Lately</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Space+Grotesk:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body data-mode="ink">
+    <div id="app"></div>
+
+    <div id="ui">
+      <!-- What you're looking at: the time window and which platforms' posts. -->
+      <header class="panel title">
+        <h1>AI Lately</h1>
+        <p class="subtitle">A landscape of AI Twitter</p>
+        <div class="title-controls">
+          <div class="control" id="window-control" hidden>
+            <span class="control-label">Window</span>
+            <div class="seg" id="window-seg">
+              <button data-window="live-day" title="The last 24 hours">Day</button>
+              <button data-window="live-3d" title="The last 3 days">3 days</button>
+              <button data-window="live-week" title="The last 7 days">Week</button>
+            </div>
+          </div>
+          <div class="control" id="source-control" hidden>
+            <span class="control-label">Posts from</span>
+            <div class="seg" id="source-seg">
+              <button data-source="" title="The map built from posts on every platform">All</button>
+              <button data-source="x" title="The map built from posts on X only">X</button>
+              <button data-source="bluesky" title="The map built from posts on Bluesky only">Bluesky</button>
+            </div>
+          </div>
+          <div class="control" id="stories-control" hidden>
+            <span class="control-label">Stories</span>
+            <div class="seg" id="stories-seg">
+              <button data-stories="" title="The day's biggest conversations">Top</button>
+              <button data-stories="niche" title="Specific discussions a smaller crowd is having, that still carry weight">Niche</button>
+            </div>
+          </div>
+        </div>
+        <a class="title-link" href="./dashboard.html">The Day in AI →</a>
+        <a class="title-link" href="./field-guide.html">Field guide →</a>
+      </header>
+
+      <!-- Mood: which axis is drawn, and its key. -->
+      <div class="panel mood-panel">
+        <div class="control" id="mood-control">
+          <span class="control-label">Mood</span>
+          <div class="seg" id="mood-seg">
+            <button data-focus="off" title="No mood on the map">Off</button>
+            <button data-focus="all">All</button>
+            <button data-focus="outlook" title="Worried ↔ hopeful">Outlook</button>
+            <button data-focus="belief" title="Sceptics ↔ believers">Belief</button>
+            <button data-focus="division" title="Agreement ↔ division">Division</button>
+          </div>
+        </div>
+        <div id="mood-key"></div>
+      </div>
+
+      <!-- The six groups, with each one's mood; click to pick. -->
+      <div class="panel legend" id="legend"></div>
+
+      <div class="panel detail" id="detail" hidden></div>
+
+      <div class="footnote" id="footnote"></div>
+    </div>
+
+    <div id="tooltip" hidden></div>
+    <div id="fade"></div>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,438 @@
+handle,name,type,parent,region,subgroup,secondary,confidence
+OpenAI,OpenAI,org,,frontier,frontier lab,,high
+AnthropicAI,Anthropic,org,,frontier,frontier lab,,high
+GoogleDeepMind,Google DeepMind,org,,frontier,frontier lab,,high
+xai,xAI,org,,frontier,frontier lab,,high
+AIatMeta,AI at Meta,org,,frontier,frontier lab,,high
+MistralAI,Mistral AI,org,,frontier,frontier lab,,high
+cohere,Cohere,org,,frontier,frontier lab,,high
+thinkymachines,Thinking Machines Lab,org,,frontier,frontier lab,,medium
+AI21Labs,AI21 Labs,org,,frontier,frontier lab,,high
+RekaAILabs,Reka,org,,frontier,frontier lab,,medium
+deepseek_ai,DeepSeek,org,,frontier,chinese lab,,high
+Alibaba_Qwen,Qwen,org,,frontier,chinese lab,,high
+Kimi_Moonshot,Moonshot AI (Kimi),org,,frontier,chinese lab,,medium
+Zai_org,Z.ai (Zhipu),org,,frontier,chinese lab,,medium
+MiniMax_AI,MiniMax,org,,frontier,chinese lab,,high
+StepFun_ai,StepFun,org,,frontier,chinese lab,,low
+liquidai,Liquid AI,org,,frontier,open-weight / open science,,high
+nvidia,NVIDIA,org,,frontier,compute & infra,,high
+NVIDIAAI,NVIDIA AI,org,nvidia,frontier,compute & infra,,medium
+AMD,AMD,org,,frontier,compute & infra,,high
+CoreWeave,CoreWeave,org,,frontier,compute & infra,,high
+LambdaAPI,Lambda,org,,frontier,compute & infra,,medium
+cerebras,Cerebras,org,,frontier,compute & infra,,high
+GroqInc,Groq,org,,frontier,compute & infra,,high
+SambaNovaAI,SambaNova,org,,frontier,compute & infra,,medium
+togethercompute,Together AI,org,,frontier,compute & infra,,high
+FireworksAI_HQ,Fireworks AI,org,,frontier,compute & infra,,medium
+databricks,Databricks,org,,frontier,compute & infra,,high
+scale_AI,Scale AI,org,,frontier,compute & infra,,high
+perplexity_ai,Perplexity,org,,frontier,ai product,,high
+character_ai,Character.AI,org,,frontier,ai product,,medium
+ChatGPTapp,ChatGPT,product,OpenAI,frontier,ai product,,high
+claudeai,Claude,product,AnthropicAI,frontier,ai product,,high
+GeminiApp,Gemini,product,GoogleDeepMind,frontier,ai product,,high
+NotebookLM,NotebookLM,product,GoogleAI,frontier,ai product,,high
+poe_platform,Poe,product,,frontier,ai product,,medium
+elonmusk,Elon Musk,person,,frontier,lab & big-tech leader,,high
+sama,Sam Altman,person,,frontier,lab & big-tech leader,,high
+sundarpichai,Sundar Pichai,person,,frontier,lab & big-tech leader,,high
+satyanadella,Satya Nadella,person,,frontier,lab & big-tech leader,,high
+demishassabis,Demis Hassabis,person,,frontier,lab & big-tech leader,research,high
+DarioAmodei,Dario Amodei,person,,frontier,lab & big-tech leader,safety,high
+gdb,Greg Brockman,person,,frontier,lab & big-tech leader,,high
+ilyasut,Ilya Sutskever,person,,frontier,lab & big-tech leader,research,high
+miramurati,Mira Murati,person,,frontier,lab & big-tech leader,,high
+mustafasuleyman,Mustafa Suleyman,person,,frontier,lab & big-tech leader,,high
+kevinweil,Kevin Weil,person,,frontier,lab & big-tech leader,,high
+bradlightcap,Brad Lightcap,person,,frontier,lab & big-tech leader,,medium
+fidjissimo,Fidji Simo,person,,frontier,lab & big-tech leader,,medium
+mikeyk,Mike Krieger,person,,frontier,lab & big-tech leader,,high
+markchen90,Mark Chen,person,,frontier,lab & big-tech leader,research,medium
+nickaturley,Nick Turley,person,,frontier,lab & big-tech leader,,medium
+koraykv,Koray Kavukcuoglu,person,,frontier,lab & big-tech leader,research,high
+joshwoodward,Josh Woodward,person,,frontier,lab & big-tech leader,,high
+kevin_scott,Kevin Scott,person,,frontier,lab & big-tech leader,,high
+finkd,Mark Zuckerberg,person,,frontier,lab & big-tech leader,,high
+alexandr_wang,Alexandr Wang,person,,frontier,lab & big-tech leader,,high
+natfriedman,Nat Friedman,person,,frontier,lab & big-tech leader,discourse,high
+LisaSu,Lisa Su,person,,frontier,lab & big-tech leader,,high
+ajassy,Andy Jassy,person,,frontier,lab & big-tech leader,,medium
+ericschmidt,Eric Schmidt,person,,frontier,lab & big-tech leader,discourse,high
+ibab,Igor Babuschkin,person,,frontier,lab & big-tech leader,,medium
+arthurmensch,Arthur Mensch,person,,frontier,startup founder,,high
+GuillaumeLample,Guillaume Lample,person,,frontier,startup founder,research,high
+aidangomez,Aidan Gomez,person,,frontier,startup founder,research,high
+AravSrinivas,Aravind Srinivas,person,,frontier,startup founder,,high
+alighodsi,Ali Ghodsi,person,,frontier,startup founder,,high
+NaveenGRao,Naveen Rao,person,,frontier,startup founder,,high
+vipulved,Vipul Ved Prakash,person,,frontier,startup founder,,medium
+jonathanross321,Jonathan Ross,person,,frontier,startup founder,,medium
+misha_laskin,Misha Laskin,person,,frontier,startup founder,research,high
+btaylor,Bret Taylor,person,,frontier,startup founder,,high
+winstonweinberg,Winston Weinberg,person,,frontier,startup founder,,medium
+RichardSocher,Richard Socher,person,,frontier,startup founder,research,high
+GoogleAI,Google AI,org,,research,frontier lab,,high
+MSFTResearch,Microsoft Research,org,,research,frontier lab,,high
+AiEleuther,EleutherAI,org,,research,open-weight / open science,,high
+allen_ai,Ai2,org,,research,open-weight / open science,,high
+lmsysorg,LMSYS,org,,research,open-weight / open science,,high
+ID_AA_Carmack,John Carmack,person,,research,startup founder,builders,high
+karpathy,Andrej Karpathy,person,,research,independent / education,builders,high
+ylecun,Yann LeCun,person,,research,big-lab research,discourse,high
+AndrewYNg,Andrew Ng,person,,research,independent / education,frontier,high
+geoffreyhinton,Geoffrey Hinton,person,,research,academia,safety,high
+fchollet,François Chollet,person,,research,independent / education,,high
+drfeifei,Fei-Fei Li,person,,research,academia,frontier,high
+JeffDean,Jeff Dean,person,,research,big-lab research,frontier,high
+goodfellow_ian,Ian Goodfellow,person,,research,big-lab research,,high
+hardmaru,David Ha (hardmaru),person,,research,big-lab research,frontier,high
+_jasonwei,Jason Wei,person,,research,big-lab research,,high
+polynoamial,Noam Brown,person,,research,big-lab research,,high
+OriolVinyalsML,Oriol Vinyals,person,,research,big-lab research,,high
+rasbt,Sebastian Raschka,person,,research,independent / education,builders,high
+jeremyphoward,Jeremy Howard,person,,research,independent / education,builders,high
+tri_dao,Tri Dao,person,,research,academia,,high
+soumithchintala,Soumith Chintala,person,,research,big-lab research,builders,high
+natolambert,Nathan Lambert,person,,research,big-lab research,discourse,high
+lilianweng,Lilian Weng,person,,research,big-lab research,,high
+johnschulman2,John Schulman,person,,research,big-lab research,,medium
+hwchung27,Hyung Won Chung,person,,research,big-lab research,,high
+BorisMPower,Boris Power,person,,research,big-lab research,,high
+giffmana,Lucas Beyer,person,,research,big-lab research,,high
+__kolesnikov__,Alexander Kolesnikov,person,,research,big-lab research,,medium
+XiaohuaZhai,Xiaohua Zhai,person,,research,big-lab research,,medium
+YiTayML,Yi Tay,person,,research,big-lab research,,high
+quocleix,Quoc Le,person,,research,big-lab research,,high
+denny_zhou,Denny Zhou,person,,research,big-lab research,,high
+ZeyuanAllenZhu,Zeyuan Allen-Zhu,person,,research,big-lab research,,high
+bneyshabur,Behnam Neyshabur,person,,research,big-lab research,,high
+NoamShazeer,Noam Shazeer,person,,research,big-lab research,frontier,medium
+sedielem,Sander Dieleman,person,,research,big-lab research,,high
+NandoDF,Nando de Freitas,person,,research,big-lab research,,high
+shakir_za,Shakir Mohamed,person,,research,big-lab research,,high
+maxjaderberg,Max Jaderberg,person,,research,big-lab research,,high
+_rockt,Tim Rocktäschel,person,,research,big-lab research,,high
+egrefen,Edward Grefenstette,person,,research,big-lab research,,high
+PetarV_93,Petar Veličković,person,,research,big-lab research,,high
+sirbayes,Kevin Murphy,person,,research,big-lab research,,high
+dpkingma,Durk Kingma,person,,research,big-lab research,,high
+dustinvtran,Dustin Tran,person,,research,big-lab research,,high
+ShaneLegg,Shane Legg,person,,research,big-lab research,frontier,high
+sebastienbubeck,Sébastien Bubeck,person,,research,big-lab research,,high
+jxmnop,Jack Morris,person,,research,academia,,high
+sea_snell,Charlie Snell,person,,research,academia,,medium
+ShunyuYao12,Shunyu Yao,person,,research,big-lab research,,medium
+ericzelikman,Eric Zelikman,person,,research,big-lab research,,medium
+JustinLin610,Junyang Lin,person,,research,big-lab research,frontier,high
+jefrankle,Jonathan Frankle,person,,research,big-lab research,,medium
+cHHillee,Horace He,person,,research,big-lab research,builders,high
+karinanguyen,Karina Nguyen,person,,research,big-lab research,,high
+willdepue,Will Depue,person,,research,big-lab research,,medium
+McaleerStephen,Stephen McAleer,person,,research,big-lab research,safety,medium
+andrew_n_carr,Andrew Carr,person,,research,big-lab research,,medium
+ArmenAgha,Armen Aghajanyan,person,,research,big-lab research,,medium
+chrmanning,Christopher Manning,person,,research,academia,,high
+percyliang,Percy Liang,person,,research,academia,,high
+tatsu_hashimoto,Tatsunori Hashimoto,person,,research,academia,,medium
+Diyi_Yang,Diyi Yang,person,,research,academia,,medium
+jacobandreas,Jacob Andreas,person,,research,academia,,high
+sarahookr,Sara Hooker,person,,research,big-lab research,,high
+tomgoldsteincs,Tom Goldstein,person,,research,academia,,high
+yoavgo,Yoav Goldberg,person,,research,academia,,high
+kchonyc,Kyunghyun Cho,person,,research,academia,,high
+srush_nlp,Sasha Rush,person,,research,academia,,high
+douwekiela,Douwe Kiela,person,,research,academia,frontier,high
+YejinChoinka,Yejin Choi,person,,research,academia,,high
+gneubig,Graham Neubig,person,,research,academia,,high
+_albertgu,Albert Gu,person,,research,academia,,high
+OfirPress,Ofir Press,person,,research,academia,,high
+jure,Jure Leskovec,person,,research,academia,,high
+mmbronstein,Michael Bronstein,person,,research,academia,,high
+jbhuang0604,Jia-Bin Huang,person,,research,academia,,high
+jeffclune,Jeff Clune,person,,research,academia,,high
+francoisfleuret,François Fleuret,person,,research,academia,,high
+SchmidhuberAI,Jürgen Schmidhuber,person,,research,academia,,high
+RichardSSutton,Richard Sutton,person,,research,academia,,high
+hugo_larochelle,Hugo Larochelle,person,,research,big-lab research,,high
+AnimaAnandkumar,Anima Anandkumar,person,,research,academia,,high
+DimitrisPapail,Dimitris Papailiopoulos,person,,research,academia,,high
+PreetumNakkiran,Preetum Nakkiran,person,,research,big-lab research,,high
+lateinteraction,Omar Khattab,person,,research,academia,builders,high
+ChrisGPotts,Christopher Potts,person,,research,academia,,high
+zicokolter,Zico Kolter,person,,research,academia,safety,high
+aleks_madry,Aleksander Madry,person,,research,academia,safety,high
+boazbaraktcs,Boaz Barak,person,,research,academia,safety,high
+DavidDuvenaud,David Duvenaud,person,,research,academia,safety,high
+BlancheMinerva,Stella Biderman,person,,research,big-lab research,builders,high
+Nils_Reimers,Nils Reimers,person,,research,big-lab research,builders,high
+iScienceLuvr,Tanishq Abraham,person,,research,independent / education,discourse,high
+michael_nielsen,Michael Nielsen,person,,research,independent / education,,high
+deliprao,Delip Rao,person,,research,independent / education,discourse,high
+cwolferesearch,Cameron Wolfe,person,,research,independent / education,,medium
+Francis_YAO_,Yao Fu,person,,research,academia,,medium
+WenhuChen,Wenhu Chen,person,,research,academia,,medium
+ethanCaballero,Ethan Caballero,person,,research,academia,,medium
+nabla_theta,Leo Gao,person,,research,big-lab research,safety,medium
+_akhaliq,AK,person,,research,ai news / curator,,high
+arankomatsuzaki,Aran Komatsuzaki,person,,research,ai news / curator,,high
+huggingface,Hugging Face,org,,builders,open-weight / open science,,high
+NousResearch,Nous Research,org,,builders,open-weight / open science,,high
+PrimeIntellect,Prime Intellect,org,,builders,open-weight / open science,,high
+arcee_ai,Arcee AI,org,,builders,open-weight / open science,,medium
+replicate,Replicate,org,,builders,compute & infra,,high
+modal,Modal,org,,builders,compute & infra,,high
+baseten,Baseten,org,,builders,compute & infra,,high
+runpod,RunPod,org,,builders,compute & infra,,high
+weights_biases,Weights & Biases,org,,builders,compute & infra,,high
+cursor_ai,Cursor,org,,builders,ai product,,high
+replit,Replit,org,,builders,ai product,,high
+Lovable,Lovable,org,,builders,ai product,,high
+boltdotnew,Bolt,org,,builders,ai product,,high
+windsurf,Windsurf,org,,builders,ai product,,medium
+cognition_labs,Cognition,org,,builders,ai product,,high
+ollama,Ollama,org,,builders,open-source maintainer,frontier,high
+LangChain,LangChain,org,,builders,agent frameworks,,high
+llama_index,LlamaIndex,org,,builders,agent frameworks,,high
+crewAIInc,CrewAI,org,,builders,agent frameworks,,medium
+lmstudio,LM Studio,org,,builders,open-source maintainer,frontier,high
+vllm_project,vLLM,org,,builders,open-source maintainer,frontier,high
+modular,Modular,org,,builders,devtools,frontier,high
+__tinygrad__,tinygrad,org,,builders,open-source maintainer,frontier,high
+latentspacepod,Latent Space,org,,builders,podcaster / newsletter,,medium
+v0,v0,product,,builders,ai product,,medium
+ClementDelangue,Clem Delangue,person,,builders,startup founder,,high
+julien_c,Julien Chaumond,person,,builders,startup founder,,high
+Thom_Wolf,Thomas Wolf,person,,builders,startup founder,research,high
+amasad,Amjad Masad,person,,builders,startup founder,,high
+mntruell,Michael Truell,person,,builders,startup founder,,medium
+amanrsanger,Aman Sanger,person,,builders,startup founder,,medium
+ScottWu46,Scott Wu,person,,builders,startup founder,,medium
+antonosika,Anton Osika,person,,builders,startup founder,,high
+jasoncwarner,Jason Warner,person,,builders,startup founder,,medium
+EricSteinb,Eric Steinberger,person,,builders,startup founder,,medium
+levelsio,Pieter Levels,person,,builders,indie hacker,,high
+swyx,swyx,person,,builders,applied ai engineering,discourse,high
+simonw,Simon Willison,person,,builders,applied ai engineering,discourse,high
+ggerganov,Georgi Gerganov,person,,builders,open-source maintainer,,high
+Teknium,Teknium,person,,builders,open-source maintainer,research,high
+rauchg,Guillermo Rauch,person,,builders,devtools,frontier,high
+mckaywrigley,Mckay Wrigley,person,,builders,applied ai engineering,,high
+OfficialLoganK,Logan Kilpatrick,person,,builders,devrel,,high
+hwchase17,Harrison Chase,person,,builders,agent frameworks,frontier,high
+jerryjliu0,Jerry Liu,person,,builders,agent frameworks,frontier,high
+joaomdmoura,João Moura,person,,builders,agent frameworks,,high
+mattshumer_,Matt Shumer,person,,builders,applied ai engineering,,high
+nutlope,Hassan El Mghari,person,,builders,applied ai engineering,,high
+yoheinakajima,Yohei Nakajima,person,,builders,agent frameworks,discourse,high
+danielhanchen,Daniel Han,person,,builders,open-source maintainer,,high
+mervenoyann,Merve Noyan,person,,builders,open-source maintainer,,high
+lvwerra,Leandro von Werra,person,,builders,open-source maintainer,research,high
+_lewtun,Lewis Tunstall,person,,builders,open-source maintainer,research,high
+stasbekman,Stas Bekman,person,,builders,open-source maintainer,,high
+_philschmid,Philipp Schmid,person,,builders,devrel,,high
+reach_vb,Vaibhav Srivastav,person,,builders,devrel,,high
+osanseviero,Omar Sanseviero,person,,builders,devrel,,high
+maximelabonne,Maxime Labonne,person,,builders,open-source maintainer,research,high
+vikhyatk,Vikhyat Korrapati,person,,builders,open-source maintainer,,medium
+winglian,Wing Lian,person,,builders,open-source maintainer,,medium
+abacaj,Anton Bacaj,person,,builders,applied ai engineering,,medium
+pcuenq,Pedro Cuenca,person,,builders,open-source maintainer,,medium
+xenovacom,Joshua Lochner,person,,builders,open-source maintainer,,high
+awnihannun,Awni Hannun,person,,builders,open-source maintainer,research,high
+Prince_Canuma,Prince Canuma,person,,builders,open-source maintainer,,medium
+ivanfioravanti,Ivan Fioravanti,person,,builders,applied ai engineering,,medium
+clattner_llvm,Chris Lattner,person,,builders,devtools,frontier,high
+realGeorgeHotz,George Hotz,person,,builders,open-source maintainer,frontier,high
+JayAlammar,Jay Alammar,person,,builders,devrel,discourse,high
+jxnlco,Jason Liu,person,,builders,applied ai engineering,,high
+HamelHusain,Hamel Husain,person,,builders,applied ai engineering,,high
+eugeneyan,Eugene Yan,person,,builders,applied ai engineering,,high
+sh_reya,Shreya Shankar,person,,builders,applied ai engineering,research,high
+chipro,Chip Huyen,person,,builders,applied ai engineering,,high
+omarsar0,Elvis Saravia,person,,builders,applied ai engineering,discourse,high
+goodside,Riley Goodside,person,,builders,applied ai engineering,,high
+alexalbert__,Alex Albert,person,,builders,devrel,,high
+_catwu,Cat Wu,person,,builders,devtools,,medium
+bcherny,Boris Cherny,person,,builders,devtools,,high
+thorstenball,Thorsten Ball,person,,builders,devtools,,high
+mitchellh,Mitchell Hashimoto,person,,builders,devtools,,high
+ThePrimeagen,ThePrimeagen,person,,builders,devtools,discourse,high
+t3dotgg,Theo,person,,builders,devtools,discourse,high
+steipete,Peter Steinberger,person,,builders,devtools,,high
+leerob,Lee Robinson,person,,builders,devtools,,high
+shadcn,shadcn,person,,builders,devtools,,high
+mattpocockuk,Matt Pocock,person,,builders,devtools,,high
+jaredpalmer,Jared Palmer,person,,builders,devtools,,medium
+skirano,Pietro Schirano,person,,builders,applied ai engineering,,high
+yacineMTB,Yacine,person,,builders,applied ai engineering,,high
+sdand,Sid Dandamudi,person,,builders,applied ai engineering,,medium
+sullyomarr,Sully Omar,person,,builders,applied ai engineering,,high
+ammaar,Ammaar Reshi,person,,builders,applied ai engineering,,high
+ryancarson,Ryan Carson,person,,builders,indie hacker,,medium
+bentossell,Ben Tossell,person,,builders,indie hacker,discourse,medium
+Yampeleg,Yam Peleg,person,,builders,applied ai engineering,,medium
+kwindla,Kwindla Hultman Kramer,person,,builders,applied ai engineering,,medium
+linusekenstam,Linus Ekenstam,person,,builders,indie hacker,discourse,medium
+danshipper,Dan Shipper,person,,builders,applied ai engineering,discourse,high
+gregisenberg,Greg Isenberg,person,,builders,indie hacker,discourse,high
+StabilityAI,Stability AI,org,,creative,open-weight / open science,,high
+midjourney,Midjourney,org,,creative,ai product,,medium
+runwayml,Runway,org,,creative,ai product,,high
+ElevenLabs,ElevenLabs,org,,creative,ai product,,high
+pika_labs,Pika,org,,creative,ai product,,medium
+LumaLabsAI,Luma AI,org,,creative,ai product,,high
+suno_ai_,Suno,org,,creative,ai product,,low
+ideogram_ai,Ideogram,org,,creative,ai product,,high
+krea_ai,Krea,org,,creative,ai product,,high
+bfl_ml,Black Forest Labs,org,,creative,ai product,,high
+comfyui,ComfyUI,org,,creative,open-source maintainer,frontier,high
+c_valenzuelab,Cristóbal Valenzuela,person,,creative,startup founder,,high
+DavidSHolz,David Holz,person,,creative,startup founder,,high
+EMostaque,Emad Mostaque,person,,creative,startup founder,,high
+demi_guo_,Demi Guo,person,,creative,startup founder,,medium
+Suhail,Suhail Doshi,person,,creative,startup founder,builders,high
+fofrAI,fofr,person,,creative,applied ai engineering,,high
+multimodalart,Apolinário,person,,creative,open-source maintainer,,medium
+cocktailpeanut,cocktail peanut,person,,creative,open-source maintainer,,high
+lllyasviel,Lvmin Zhang,person,,creative,open-source maintainer,research,high
+bilawalsidhu,Bilawal Sidhu,person,,creative,podcaster / newsletter,builders,high
+Figure_robot,Figure,org,,robotics,robotics,,high
+1x_tech,1X,org,,robotics,robotics,,high
+physical_int,Physical Intelligence,org,,robotics,robotics,research,high
+UnitreeRobotics,Unitree,org,,robotics,robotics,,high
+BostonDynamics,Boston Dynamics,org,,robotics,robotics,,high
+adcock_brett,Brett Adcock,person,,robotics,startup founder,,high
+hausman_k,Karol Hausman,person,,robotics,startup founder,research,medium
+DrJimFan,Jim Fan,person,,robotics,big-lab research,,high
+ericjang11,Eric Jang,person,,robotics,big-lab research,,high
+pabbeel,Pieter Abbeel,person,,robotics,academia,,high
+svlevine,Sergey Levine,person,,robotics,academia,,high
+chelseabfinn,Chelsea Finn,person,,robotics,academia,,high
+yukez,Yuke Zhu,person,,robotics,academia,,high
+TheRundownAI,The Rundown AI,org,,discourse,podcaster / newsletter,,high
+bensbites,Ben's Bites,org,,discourse,podcaster / newsletter,,high
+SemiAnalysis_,SemiAnalysis,org,,discourse,analyst,,medium
+a16z,a16z,org,,discourse,investor,,high
+sequoia,Sequoia Capital,org,,discourse,investor,,high
+ycombinator,Y Combinator,org,,discourse,investor,,high
+testingcatalog,TestingCatalog News,org,,discourse,ai news / curator,,high
+reidhoffman,Reid Hoffman,person,,discourse,lab & big-tech leader,,high
+daniel_gross,Daniel Gross,person,,discourse,startup founder,,high
+tobi,Tobi Lütke,person,,discourse,startup founder,builders,high
+lexfridman,Lex Fridman,person,,discourse,podcaster / newsletter,,high
+dwarkesh_sp,Dwarkesh Patel,person,,discourse,podcaster / newsletter,,high
+altryne,Alex Volkov,person,,discourse,podcaster / newsletter,,high
+rowancheung,Rowan Cheung,person,,discourse,podcaster / newsletter,,high
+patrick_oshag,Patrick O'Shaughnessy,person,,discourse,podcaster / newsletter,,high
+HarryStebbings,Harry Stebbings,person,,discourse,podcaster / newsletter,,high
+johncoogan,John Coogan,person,,discourse,podcaster / newsletter,,high
+jordihays,Jordi Hays,person,,discourse,podcaster / newsletter,,medium
+MatthewBerman,Matthew Berman,person,,discourse,podcaster / newsletter,,high
+mreflow,Matt Wolfe,person,,discourse,podcaster / newsletter,,high
+GergelyOrosz,Gergely Orosz,person,,discourse,podcaster / newsletter,,high
+stratechery,Ben Thompson,person,,discourse,analyst,,high
+BenedictEvans,Benedict Evans,person,,discourse,analyst,,high
+dylan522p,Dylan Patel,person,,discourse,analyst,,high
+packyM,Packy McCormick,person,,discourse,analyst,,high
+Noahpinion,Noah Smith,person,,discourse,analyst,,high
+tylercowen,Tyler Cowen,person,,discourse,analyst,,medium
+emollick,Ethan Mollick,person,,discourse,analyst,research,high
+alliekmiller,Allie K. Miller,person,,discourse,analyst,,high
+GaryMarcus,Gary Marcus,person,,discourse,critic,research,high
+kevinroose,Kevin Roose,person,,discourse,journalist,,high
+CaseyNewton,Casey Newton,person,,discourse,journalist,,high
+karaswisher,Kara Swisher,person,,discourse,journalist,,high
+Kantrowitz,Alex Kantrowitz,person,,discourse,journalist,,high
+CadeMetz,Cade Metz,person,,discourse,journalist,,medium
+willknight,Will Knight,person,,discourse,journalist,,medium
+naval,Naval,person,,discourse,investor,,high
+paulg,Paul Graham,person,,discourse,investor,,high
+pmarca,Marc Andreessen,person,,discourse,investor,frontier,high
+balajis,Balaji,person,,discourse,investor,,high
+eladgil,Elad Gil,person,,discourse,investor,,high
+sriramk,Sriram Krishnan,person,,discourse,investor,safety,high
+saranormous,Sarah Guo,person,,discourse,investor,,high
+mattturck,Matt Turck,person,,discourse,investor,,high
+chamath,Chamath Palihapitiya,person,,discourse,investor,,high
+DavidSacks,David Sacks,person,,discourse,investor,safety,high
+jason,Jason Calacanis,person,,discourse,investor,,high
+garrytan,Garry Tan,person,,discourse,investor,,high
+vkhosla,Vinod Khosla,person,,discourse,investor,,high
+martin_casado,Martin Casado,person,,discourse,investor,,high
+bhorowitz,Ben Horowitz,person,,discourse,investor,,high
+rabois,Keith Rabois,person,,discourse,investor,,high
+venturetwins,Justine Moore,person,,discourse,investor,,high
+omooretweets,Olivia Moore,person,,discourse,investor,,high
+Scobleizer,Robert Scoble,person,,discourse,ai news / curator,,high
+btibor91,Tibor Blaho,person,,discourse,ai news / curator,,high
+kimmonismus,Chubby,person,,discourse,ai news / curator,,high
+apples_jimmy,Jimmy Apples,person,,discourse,ai news / curator,,medium
+tszzl,roon,person,,discourse,insider / poster,research,high
+aidan_mclau,Aidan McLaughlin,person,,discourse,insider / poster,research,medium
+nearcyan,near,person,,discourse,insider / poster,builders,high
+teortaxesTex,Teortaxes,person,,discourse,insider / poster,,high
+beffjezos,Beff Jezos,person,,discourse,insider / poster,frontier,high
+bindureddy,Bindu Reddy,person,,discourse,insider / poster,frontier,high
+TheZvi,Zvi Mowshowitz,person,,discourse,podcaster / newsletter,safety,high
+gwern,Gwern,person,,discourse,insider / poster,safety,high
+EpochAIResearch,Epoch AI,org,,safety,forecasting,research,high
+AISafetyMemes,AI Safety Memes,org,,safety,advocacy,discourse,high
+PauseAI,PauseAI,org,,safety,advocacy,,high
+METR_Evals,METR,org,,safety,safety org,,high
+ApolloResearch,Apollo Research,org,,safety,safety org,,high
+AISecurityInst,AI Security Institute,org,,safety,safety org,,high
+FLI_org,Future of Life Institute,org,,safety,safety org,,high
+MIRIBerkeley,MIRI,org,,safety,safety org,,high
+GovAIOrg,GovAI,org,,safety,safety org,,medium
+StanfordHAI,Stanford HAI,org,,safety,safety org,research,high
+CSETGeorgetown,CSET,org,,safety,safety org,,high
+emilymbender,Emily M. Bender,person,,safety,academia,discourse,high
+mmitchell_ai,Margaret Mitchell,person,,safety,big-lab research,,high
+timnitGebru,Timnit Gebru,person,,safety,academia,,high
+random_walker,Arvind Narayanan,person,,safety,academia,,high
+sayashk,Sayash Kapoor,person,,safety,academia,,medium
+ESYudkowsky,Eliezer Yudkowsky,person,,safety,alignment researcher,discourse,high
+So8res,Nate Soares,person,,safety,alignment researcher,,high
+robbensinger,Rob Bensinger,person,,safety,alignment researcher,,high
+paulfchristiano,Paul Christiano,person,,safety,alignment researcher,research,high
+janleike,Jan Leike,person,,safety,alignment researcher,research,high
+ch402,Chris Olah,person,,safety,alignment researcher,research,high
+NeelNanda5,Neel Nanda,person,,safety,alignment researcher,research,high
+EvanHub,Evan Hubinger,person,,safety,alignment researcher,research,high
+sleepinyourhat,Sam Bowman,person,,safety,alignment researcher,research,high
+AmandaAskell,Amanda Askell,person,,safety,alignment researcher,research,high
+bshlgrs,Buck Shlegeris,person,,safety,alignment researcher,,high
+RyanGreenblatt,Ryan Greenblatt,person,,safety,alignment researcher,,high
+StephenLCasper,Stephen Casper,person,,safety,alignment researcher,research,medium
+jachiam0,Joshua Achiam,person,,safety,alignment researcher,research,high
+hendrycks,Dan Hendrycks,person,,safety,alignment researcher,research,high
+Yoshua_Bengio,Yoshua Bengio,person,,safety,alignment researcher,research,medium
+NPCollapse,Connor Leahy,person,,safety,alignment researcher,frontier,high
+DKokotajlo,Daniel Kokotajlo,person,,safety,forecasting,,high
+eli_lifland,Eli Lifland,person,,safety,forecasting,,medium
+ajeya_cotra,Ajeya Cotra,person,,safety,forecasting,,high
+KatjaGrace,Katja Grace,person,,safety,forecasting,,medium
+peterwildeford,Peter Wildeford,person,,safety,forecasting,discourse,high
+leopoldasch,Leopold Aschenbrenner,person,,safety,forecasting,discourse,high
+jackclarkSF,Jack Clark,person,,safety,policy & governance,frontier,high
+Miles_Brundage,Miles Brundage,person,,safety,policy & governance,,high
+HelenToner,Helen Toner,person,,safety,policy & governance,,high
+ohlennart,Lennart Heim,person,,safety,policy & governance,,high
+hamandcheese,Samuel Hammond,person,,safety,policy & governance,discourse,high
+deanwball,Dean Ball,person,,safety,policy & governance,discourse,high
+sebkrier,Séb Krier,person,,safety,policy & governance,,high
+RishiBommasani,Rishi Bommasani,person,,safety,policy & governance,research,medium
+ShakeelHashim,Shakeel Hashim,person,,safety,policy & governance,discourse,high
+KelseyTuoc,Kelsey Piper,person,,safety,policy & governance,discourse,high
+tegmark,Max Tegmark,person,,safety,advocacy,research,high
+liron,Liron Shapira,person,,safety,advocacy,discourse,high
+MichaelTrazzi,Michaël Trazzi,person,,safety,advocacy,,high
+ilex_ulmus,Holly Elmore,person,,safety,advocacy,,medium
+Simeon_Cps,Siméon Campos,person,,safety,advocacy,,medium
+robertwiblin,Rob Wiblin,person,,safety,advocacy,discourse,high
+willmacaskill,Will MacAskill,person,,safety,advocacy,,high
+tobyordoxford,Toby Ord,person,,safety,advocacy,,high
+HoldenKarnofsky,Holden Karnofsky,person,,safety,advocacy,,medium
+slatestarcodex,Scott Alexander,person,,safety,advocacy,discourse,medium

@@ -1,0 +1,1798 @@
+{
+ "osanseviero": {
+  "bluesky": "osanseviero.bsky.social",
+  "did": "did:plc:pcz643f26m5ab5xckacgrpuo",
+  "followers": 3399,
+  "posts": 18,
+  "how": "stated"
+ },
+ "savvyRL": {
+  "bluesky": "rosanneliu.com",
+  "did": "did:plc:3vlwvdatbrqv435rjye7vqma",
+  "followers": 4524,
+  "posts": 52,
+  "how": "domain"
+ },
+ "PyTorch": {
+  "bluesky": "pytorch.org",
+  "did": "did:plc:o3pmmtxoor73pszydv7pffsv",
+  "followers": 557,
+  "posts": 301,
+  "how": "domain"
+ },
+ "thegautamkamath": {
+  "bluesky": "gautamkamath.com",
+  "did": "did:plc:46v56274sngq2aehbieh72zp",
+  "followers": 4588,
+  "posts": 689,
+  "how": "domain"
+ },
+ "askalphaxiv": {
+  "bluesky": "alphaxiv.org",
+  "did": "did:plc:xqp2wfy2sz5m7n2mu322izo2",
+  "followers": 376,
+  "posts": 380,
+  "how": "domain"
+ },
+ "geoffreylitt": {
+  "bluesky": "geoffreylitt.com",
+  "did": "did:plc:f2nh2a5ldz4rwzti6upqeidj",
+  "followers": 6837,
+  "posts": 153,
+  "how": "domain"
+ },
+ "arena": {
+  "bluesky": "arena.ai",
+  "did": "did:plc:4gknyibluy5d55optj45ifdd",
+  "followers": 24,
+  "posts": 0,
+  "how": "domain"
+ },
+ "UnslothAI": {
+  "bluesky": "unsloth.ai",
+  "did": "did:plc:xfbmksnykel6qbq7cs4geveg",
+  "followers": 1603,
+  "posts": 100,
+  "how": "domain"
+ },
+ "adocomplete": {
+  "bluesky": "adocomplete.com",
+  "did": "did:plc:yv6u5hqq62nambxturvzgxwl",
+  "followers": 449,
+  "posts": 45,
+  "how": "domain"
+ },
+ "Azure": {
+  "bluesky": "azure.microsoft.com",
+  "did": "did:plc:eihqamfc7cvzzkdpbrpcza2z",
+  "followers": 686,
+  "posts": 1,
+  "how": "domain"
+ },
+ "ai_for_success": {
+  "bluesky": "ashutoshai.com",
+  "did": "did:plc:xr24mgup24hfoy4dlnkimdop",
+  "followers": 383,
+  "posts": 78,
+  "how": "domain"
+ },
+ "alexgraveley": {
+  "bluesky": "alexgraveley.com",
+  "did": "did:plc:fvc3vebxpuf2dgdjljzm5h5m",
+  "followers": 443,
+  "posts": 3,
+  "how": "domain"
+ },
+ "AnthropicAI": {
+  "bluesky": "anthropic.com",
+  "did": "did:plc:7xblllgnpqtiotu62pic747n",
+  "followers": 16825,
+  "posts": 0,
+  "how": "search",
+  "reason": "Verified domain handle, matching name and bio"
+ },
+ "cohere": {
+  "bluesky": "cohere.com",
+  "did": "did:plc:o3hbwz3vmclipstndwfb52n6",
+  "followers": 549,
+  "posts": 0,
+  "how": "search",
+  "reason": "Domain handle, matching name and enterprise AI bio"
+ },
+ "togethercompute": {
+  "bluesky": "togetherai.bsky.social",
+  "did": "did:plc:plpaeg652lj3spxkhwwdoxr7",
+  "followers": 14,
+  "posts": 0,
+  "how": "search",
+  "reason": "Same name, equivalent handle, open-source AI bio"
+ },
+ "mustafasuleyman": {
+  "bluesky": "mustafasuleymanai.bsky.social",
+  "did": "did:plc:k6jeszer4wmcvmz2bvdrxeal",
+  "followers": 3925,
+  "posts": 188,
+  "how": "search",
+  "reason": "Matching name; bio matches roles and book"
+ },
+ "natfriedman": {
+  "bluesky": "natfriedman.bsky.social",
+  "did": "did:plc:6de2dccyuwvu5lptx5pbxthb",
+  "followers": 1835,
+  "posts": 0,
+  "how": "search",
+  "reason": "Same name and identical handle"
+ },
+ "arthurmensch": {
+  "bluesky": "arthurmensch.bsky.social",
+  "did": "did:plc:bgudp4sp5r2bmemksboxduqy",
+  "followers": 1628,
+  "posts": 2,
+  "how": "search",
+  "reason": "Same name, Mistral AI CEO bio"
+ },
+ "aidangomez": {
+  "bluesky": "aidangomez.bsky.social",
+  "did": "did:plc:6th67td4ygx2jt5ci5okucac",
+  "followers": 842,
+  "posts": 6,
+  "how": "search",
+  "reason": "Same name and handle, Cohere bio"
+ },
+ "AravSrinivas": {
+  "bluesky": "aravindsrinivas.bsky.social",
+  "did": "did:plc:njehydulhuev4qdslyigs5f3",
+  "followers": 2400,
+  "posts": 0,
+  "how": "search",
+  "reason": "Same name, Perplexity CEO bio"
+ },
+ "JonathanRoss321": {
+  "bluesky": "jonathan-ross.bsky.social",
+  "did": "did:plc:hwqnom7lamjesf7pswh5wvkz",
+  "followers": 999,
+  "posts": 42,
+  "how": "search",
+  "reason": "Same name, Groq founder, TPU/LPU bio"
+ },
+ "btaylor": {
+  "bluesky": "brettaylor.bsky.social",
+  "did": "did:plc:gbaijtefatfwd4skzrlpvasp",
+  "followers": 1061,
+  "posts": 1,
+  "how": "search",
+  "reason": "Same name, links to his LinkedIn brettaylor"
+ },
+ "MSFTResearch": {
+  "bluesky": "msftresearch.bsky.social",
+  "did": "did:plc:rvofkpg4qgalioqtvphgclbh",
+  "followers": 5061,
+  "posts": 395,
+  "how": "search",
+  "reason": "Same name, handle, and bio"
+ },
+ "allen_ai": {
+  "bluesky": "ai2.bsky.social",
+  "did": "did:plc:i4kytxgsu3yfsrt2ml3o7tgq",
+  "followers": 4981,
+  "posts": 1197,
+  "how": "search",
+  "reason": "Same name Ai2 and identical bio"
+ },
+ "karpathy": {
+  "bluesky": "karpathy.bsky.social",
+  "did": "did:plc:j7gi6r4kh6uof7rfrqpm3fej",
+  "followers": 34455,
+  "posts": 20,
+  "how": "search",
+  "reason": "Same handle; bio OpenAI, Tesla, Stanford"
+ },
+ "ylecun": {
+  "bluesky": "yann-lecun.bsky.social",
+  "did": "did:plc:c2mjfv2a7judclufinscuyid",
+  "followers": 16722,
+  "posts": 12,
+  "how": "search",
+  "reason": "Same name; NYU, AMI Labs, Turing Award"
+ },
+ "drfeifei": {
+  "bluesky": "drfeifei.bsky.social",
+  "did": "did:plc:6porwqpbx7z5ltj6jeu4kjut",
+  "followers": 4865,
+  "posts": 4,
+  "how": "search",
+  "reason": "Same name and handle; Stanford, World Labs bio"
+ },
+ "JeffDean": {
+  "bluesky": "jeffdean.bsky.social",
+  "did": "did:plc:uinkqqbeiydzfm7v7pi4e5mi",
+  "followers": 11186,
+  "posts": 181,
+  "how": "search",
+  "reason": "Same name; Discovery Loop CEO, ex-Google Chief Scientist"
+ },
+ "goodfellow_ian": {
+  "bluesky": "ian-goodfellow.bsky.social",
+  "did": "did:plc:ctxntauktikgtxhgr26xzcfl",
+  "followers": 6188,
+  "posts": 41,
+  "how": "search",
+  "reason": "Same name; GANs inventor, book author, PHAN chairman"
+ },
+ "hardmaru": {
+  "bluesky": "hardmaru.bsky.social",
+  "did": "did:plc:7chsbgw6o6oh5oiglpgc3467",
+  "followers": 4751,
+  "posts": 260,
+  "how": "search",
+  "reason": "Same handle; Sakana AI co-founder and CEO"
+ },
+ "polynoamial": {
+  "bluesky": "polynoamial.bsky.social",
+  "did": "did:plc:xnyz7zlfrhk7556wau2l2olp",
+  "followers": 1745,
+  "posts": 18,
+  "how": "search",
+  "reason": "Same handle and name; same OpenAI reasoning bio"
+ },
+ "rasbt": {
+  "bluesky": "rasbt.bsky.social",
+  "did": "did:plc:oxbzsf2flrqyobhxemowaceh",
+  "followers": 10550,
+  "posts": 319,
+  "how": "search",
+  "reason": "Same handle; same LLM book author bio"
+ },
+ "jeremyphoward": {
+  "bluesky": "howard.fm",
+  "did": "did:plc:ihze7dasblwewgunyesfbm23",
+  "followers": 20967,
+  "posts": 396,
+  "how": "search",
+  "reason": "Same name; Answer.AI, fast.ai, Kaggle bio"
+ },
+ "soumithchintala": {
+  "bluesky": "soumithchintala.bsky.social",
+  "did": "did:plc:ng35q2zh2pupepsnmvolhz4w",
+  "followers": 10509,
+  "posts": 19,
+  "how": "search",
+  "reason": "Same handle; PyTorch cofounder, NYU robotics"
+ },
+ "natolambert": {
+  "bluesky": "natolambert.bsky.social",
+  "did": "did:plc:brkj2yocng7vtggmyujy4khq",
+  "followers": 14925,
+  "posts": 2215,
+  "how": "search",
+  "reason": "Same handle; Interconnects, ex-Ai2/Olmo"
+ },
+ "giffmana": {
+  "bluesky": "giffmana.ai",
+  "did": "did:plc:h3ns7nitbur6pu3voihu6ll6",
+  "followers": 6292,
+  "posts": 301,
+  "how": "search",
+  "reason": "Same name and bio; .bsky.social points to it"
+ },
+ "denny_zhou": {
+  "bluesky": "dennyzhou.bsky.social",
+  "did": "did:plc:lzjohn6z33ma3a7h6jb2chnn",
+  "followers": 51,
+  "posts": 0,
+  "how": "search",
+  "reason": "Same name; Google DeepMind matches past employer"
+ },
+ "sedielem": {
+  "bluesky": "sedielem.bsky.social",
+  "did": "did:plc:tl4gcezwgrweh4ft7eng7omj",
+  "followers": 4657,
+  "posts": 93,
+  "how": "search",
+  "reason": "Same handle; DeepMind WaveNet bio links X"
+ },
+ "shakir_za": {
+  "bluesky": "shakirm.bsky.social",
+  "did": "did:plc:btapoz4ckccq2kzjen455keg",
+  "followers": 3920,
+  "posts": 12,
+  "how": "search",
+  "reason": "Same name; DeepMind, Deep Learning Indaba"
+ },
+ "egrefen": {
+  "bluesky": "egrefen.bsky.social",
+  "did": "did:plc:hdh33jziv5gnlnrzqou3tqji",
+  "followers": 7842,
+  "posts": 67,
+  "how": "search",
+  "reason": "Same handle; identical DeepMind/UCL DARK bio"
+ },
+ "PetarV_93": {
+  "bluesky": "petar-v.bsky.social",
+  "did": "did:plc:ebnvswnl7pbnxxfgj65dvsyr",
+  "followers": 2900,
+  "posts": 38,
+  "how": "search",
+  "reason": "Same name; Google DeepMind, Cambridge, same flags"
+ },
+ "dpkingma": {
+  "bluesky": "dpkingma.bsky.social",
+  "did": "did:plc:pwbodmpxroeqgnv7fyp25buw",
+  "followers": 1805,
+  "posts": 13,
+  "how": "search",
+  "reason": "Same handle; VAE/Adam inventor bio"
+ },
+ "SebastienBubeck": {
+  "bluesky": "sbubeck.bsky.social",
+  "did": "did:plc:7tvm57k4xqvgr4vgs4353kok",
+  "followers": 4140,
+  "posts": 29,
+  "how": "search",
+  "reason": "Same name; identical OpenAI/Microsoft bio"
+ },
+ "sea_snell": {
+  "bluesky": "seasnell.bsky.social",
+  "did": "did:plc:cawmcejspzr6ae2wo54rlplk",
+  "followers": 391,
+  "posts": 8,
+  "how": "search",
+  "reason": "Equivalent handle, same name, same bio phrase"
+ },
+ "jefrankle": {
+  "bluesky": "jfrankle.com",
+  "did": "did:plc:ld3bt3oauhzp2mlplwuyngys",
+  "followers": 2943,
+  "posts": 33,
+  "how": "search",
+  "reason": "Same name, Chief AI Scientist Databricks, MosaicML"
+ },
+ "cHHillee": {
+  "bluesky": "chhillee.bsky.social",
+  "did": "did:plc:6a5gkjwdkwgesvplkg5hnoj6",
+  "followers": 834,
+  "posts": 13,
+  "how": "search",
+  "reason": "Identical handle, name, and quoted bio"
+ },
+ "chrmanning": {
+  "bluesky": "chrmanning.bsky.social",
+  "did": "did:plc:4oewvrtpoedpzecw2sjnypps",
+  "followers": 10060,
+  "posts": 40,
+  "how": "search",
+  "reason": "Same handle, name, Stanford NLP founder"
+ },
+ "Diyi_Yang": {
+  "bluesky": "diyiyang.bsky.social",
+  "did": "did:plc:izpdon7e76fypuunuxiojy7l",
+  "followers": 2192,
+  "posts": 2,
+  "how": "search",
+  "reason": "Same name, identical Stanford CS bio"
+ },
+ "sarahookr": {
+  "bluesky": "sarahooker.bsky.social",
+  "did": "did:plc:mxun2pqszqqevztpby26lsvr",
+  "followers": 8140,
+  "posts": 50,
+  "how": "search",
+  "reason": "Same name, Cohere and Google Brain"
+ },
+ "yoavgo": {
+  "bluesky": "yoavgo.bsky.social",
+  "did": "did:plc:faxvaqx4xnabwhxea5qqij4b",
+  "followers": 6751,
+  "posts": 1387,
+  "how": "search",
+  "reason": "Identical handle, name Yoav Goldberg"
+ },
+ "kchonyc": {
+  "bluesky": "kyunghyuncho.bsky.social",
+  "did": "did:plc:c6snk2xzhdckr4z5nyosumua",
+  "followers": 3381,
+  "posts": 374,
+  "how": "search",
+  "reason": "Full name handle, same 'mediocre professor' bio style"
+ },
+ "srush_nlp": {
+  "bluesky": "srushnlp.bsky.social",
+  "did": "did:plc:cysbeo6jsw46wltluejxdgji",
+  "followers": 7432,
+  "posts": 37,
+  "how": "search",
+  "reason": "Equivalent handle, same name, programmer/professor"
+ },
+ "gneubig": {
+  "bluesky": "gneubig.bsky.social",
+  "did": "did:plc:ssfx3ysgt4dowxsku326i2ge",
+  "followers": 881,
+  "posts": 2,
+  "how": "search",
+  "reason": "Same handle, name, CMU professor"
+ },
+ "OfirPress": {
+  "bluesky": "ofirpress.bsky.social",
+  "did": "did:plc:jt6vfiqztljw7kvv3qekdfer",
+  "followers": 685,
+  "posts": 24,
+  "how": "search",
+  "reason": "Same name, benchmarks, Princeton postdoc"
+ },
+ "mmbronstein": {
+  "bluesky": "mmbronstein.bsky.social",
+  "did": "did:plc:7y33ztezbpsj5kymqgugwvrf",
+  "followers": 12343,
+  "posts": 274,
+  "how": "search",
+  "reason": "Same handle, name, DeepMind Professor Oxford"
+ },
+ "jbhuang0604": {
+  "bluesky": "jbhuang0604.bsky.social",
+  "did": "did:plc:medlwnut6g2efyoas543imbq",
+  "followers": 2812,
+  "posts": 205,
+  "how": "search",
+  "reason": "Identical handle and name"
+ },
+ "jeffclune": {
+  "bluesky": "jeffclune.com",
+  "did": "did:plc:rzub2d4cm7ggyryaygzvikze",
+  "followers": 3779,
+  "posts": 124,
+  "how": "search",
+  "reason": "Same name, UBC, CIFAR, AI-GAs"
+ },
+ "francoisfleuret": {
+  "bluesky": "francois.fleuret.org",
+  "did": "did:plc:3x6fjk6uqc5lynzzjecmetzh",
+  "followers": 5794,
+  "posts": 413,
+  "how": "search",
+  "reason": "Same name, Meta FAIR, Geneva, Neural Concept"
+ },
+ "DimitrisPapail": {
+  "bluesky": "dimitrisp.bsky.social",
+  "did": "did:plc:txywptqkefqozcg7cqfd25xk",
+  "followers": 1924,
+  "posts": 171,
+  "how": "search",
+  "reason": "Same name, Microsoft, UW Madison, Inez Lily"
+ },
+ "PreetumNakkiran": {
+  "bluesky": "preetumnakkiran.bsky.social",
+  "did": "did:plc:imftky4rbiizjzvkfbwed3h5",
+  "followers": 1775,
+  "posts": 37,
+  "how": "search",
+  "reason": "Identical distinctive handle and name, ML researcher"
+ },
+ "lateinteraction": {
+  "bluesky": "lateinteraction.bsky.social",
+  "did": "did:plc:vam5sxnaj76m3pqez6mlbbtx",
+  "followers": 1330,
+  "posts": 53,
+  "how": "search",
+  "reason": "Same handle, name, ColBERT, DSPy, MIT"
+ },
+ "zicokolter": {
+  "bluesky": "zicokolter.bsky.social",
+  "did": "did:plc:kkv2qcgd525fjzqrfyeymue4",
+  "followers": 4410,
+  "posts": 2,
+  "how": "search",
+  "reason": "Same name, CMU ML head, OpenAI board"
+ },
+ "aleks_madry": {
+  "bluesky": "aleksmadry.bsky.social",
+  "did": "did:plc:gqtzhpw7gxgxmhhdwincib5g",
+  "followers": 403,
+  "posts": 0,
+  "how": "search",
+  "reason": "Same name, identical bio"
+ },
+ "BlancheMinerva": {
+  "bluesky": "stellaathena.bsky.social",
+  "did": "did:plc:mray7klv7leelnlkynuk57up",
+  "followers": 5981,
+  "posts": 516,
+  "how": "search",
+  "reason": "Same name; equivalent bio about open AI research"
+ },
+ "michael_nielsen": {
+  "bluesky": "michaelnielsen.bsky.social",
+  "did": "did:plc:yitfhdr53a5cewb5p3qdnugh",
+  "followers": 7106,
+  "posts": 949,
+  "how": "search",
+  "reason": "Same name; near-identical 'searching for the numinous' bio"
+ },
+ "deliprao": {
+  "bluesky": "deliprao.bsky.social",
+  "did": "did:plc:kdzchbu4okywj4vrtsir54fr",
+  "followers": 2305,
+  "posts": 11,
+  "how": "search",
+  "reason": "Same name, handle, affiliations, and bio details"
+ },
+ "ethanCaballero": {
+  "bluesky": "ethancaballero.bsky.social",
+  "did": "did:plc:ogrjsytcti47ces7iiqsvsfy",
+  "followers": 49,
+  "posts": 2,
+  "how": "search",
+  "reason": "Exact distinctive handle; AI-themed bio"
+ },
+ "arankomatsuzaki": {
+  "bluesky": "arankomatsuzaki.bsky.social",
+  "did": "did:plc:o4ihmlhoftbk4adx2v3ktpwg",
+  "followers": 292,
+  "posts": 1,
+  "how": "search",
+  "reason": "Exact match on distinctive full-name handle"
+ },
+ "huggingface": {
+  "bluesky": "hf.co",
+  "did": "did:plc:qcm5pejjqltepp6kztn6pzib",
+  "followers": 17009,
+  "posts": 3,
+  "how": "search",
+  "reason": "Official domain handle; identical name and bio"
+ },
+ "NousResearch": {
+  "bluesky": "nousresearch.com",
+  "did": "did:plc:6mdakyrpwytun7tjxmovrd6p",
+  "followers": 1407,
+  "posts": 38,
+  "how": "search",
+  "reason": "Official domain handle and same name"
+ },
+ "PrimeIntellect": {
+  "bluesky": "primeintellect.bsky.social",
+  "did": "did:plc:p4wow2ksk4sbyyrybrkfkyjv",
+  "followers": 110,
+  "posts": 0,
+  "how": "search",
+  "reason": "Exact name and handle match for distinctive org"
+ },
+ "replicate": {
+  "bluesky": "replicate.com",
+  "did": "did:plc:hajttogfiyrzif54qftsl22o",
+  "followers": 350,
+  "posts": 264,
+  "how": "search",
+  "reason": "Official domain; identical bio 'Run AI with an API'"
+ },
+ "baseten": {
+  "bluesky": "basetenco.bsky.social",
+  "did": "did:plc:5n5phjwinnicrj4po75e5xmj",
+  "followers": 34,
+  "posts": 19,
+  "how": "search",
+  "reason": "Same name; inference-focused bio"
+ },
+ "runpod": {
+  "bluesky": "runpod.io",
+  "did": "did:plc:ud6zde3x6klbi3itsfv27anj",
+  "followers": 49,
+  "posts": 0,
+  "how": "search",
+  "reason": "Official domain handle and same name"
+ },
+ "boltdotnew": {
+  "bluesky": "bolt.new",
+  "did": "did:plc:cldvrketb4yt5sbyx6vo5zrz",
+  "followers": 1605,
+  "posts": 104,
+  "how": "search",
+  "reason": "Official domain handle and same product"
+ },
+ "LangChain": {
+  "bluesky": "langchain.bsky.social",
+  "did": "did:plc:zhvfuyqjeecm4rkg644wq7ox",
+  "followers": 2228,
+  "posts": 212,
+  "how": "search",
+  "reason": "Same name and handle; LLM app bio"
+ },
+ "llama_index": {
+  "bluesky": "llamaindex.bsky.social",
+  "did": "did:plc:mtomzeevyh7onr24vq6qehvh",
+  "followers": 1194,
+  "posts": 1061,
+  "how": "search",
+  "reason": "Same name; documents/agents bio matches"
+ },
+ "lmstudio": {
+  "bluesky": "lmstudio-ai.bsky.social",
+  "did": "did:plc:ob733r2nkzfgpa5vdky6pal5",
+  "followers": 635,
+  "posts": 10,
+  "how": "search",
+  "reason": "Same name; bio mentions Bionic, as on X"
+ },
+ "v0": {
+  "bluesky": "v0.dev",
+  "did": "did:plc:25nc2ud5bc6vz2b3f3sncje3",
+  "followers": 955,
+  "posts": 119,
+  "how": "search",
+  "reason": "Official domain; created by Vercel"
+ },
+ "julien_c": {
+  "bluesky": "julien-c.hf.co",
+  "did": "did:plc:lzjhgvxpyqlflgq3fjwx3yrt",
+  "followers": 3897,
+  "posts": 12,
+  "how": "search",
+  "reason": "Same name on Hugging Face domain handle"
+ },
+ "Thom_Wolf": {
+  "bluesky": "thomwolf.bsky.social",
+  "did": "did:plc:gntu4wsyt6gtzle3t2kinr6o",
+  "followers": 12809,
+  "posts": 122,
+  "how": "search",
+  "reason": "Same name; Hugging Face co-founder bio"
+ },
+ "amasad": {
+  "bluesky": "amasad.bsky.social",
+  "did": "did:plc:sxtoqpz6fwoo2rywnm6646rl",
+  "followers": 1538,
+  "posts": 2,
+  "how": "search",
+  "reason": "Exact distinctive name and handle match"
+ },
+ "levelsio": {
+  "bluesky": "levels.io",
+  "did": "did:plc:mrt5hiqwkdzbiy6c744zg3if",
+  "followers": 11092,
+  "posts": 15,
+  "how": "search",
+  "reason": "Same name and same product revenue bio"
+ },
+ "swyx": {
+  "bluesky": "swyx.io",
+  "did": "did:plc:xxuso5disl5vq5xfzlr7mf52",
+  "followers": 9162,
+  "posts": 276,
+  "how": "search",
+  "reason": "Same name, matching bio and latent.space link"
+ },
+ "simonw": {
+  "bluesky": "simonwillison.net",
+  "did": "did:plc:kft6lu4trxowqmter2b6vg6z",
+  "followers": 51518,
+  "posts": 5038,
+  "how": "search",
+  "reason": "Same name, Datasette creator, own domain"
+ },
+ "Teknium": {
+  "bluesky": "teknium.bsky.social",
+  "did": "did:plc:ee5vwt7dxy22pn2p6bfk6rle",
+  "followers": 1404,
+  "posts": 2,
+  "how": "search",
+  "reason": "Same name, bio links Teknium1 Twitter/GitHub"
+ },
+ "rauchg": {
+  "bluesky": "rauchg.blue",
+  "did": "did:plc:t3ymiltqyv4x4bccr2dxyn2w",
+  "followers": 10125,
+  "posts": 22,
+  "how": "search",
+  "reason": "Same name and handle, Vercel bio"
+ },
+ "mckaywrigley": {
+  "bluesky": "mckaywrigley.bsky.social",
+  "did": "did:plc:gr5g7hcf5lgwyirnx2qcy2df",
+  "followers": 1438,
+  "posts": 0,
+  "how": "search",
+  "reason": "Same name, handle and identical bio"
+ },
+ "mattshumer_": {
+  "bluesky": "mattshumer.bsky.social",
+  "did": "did:plc:rd27p52qchs7jz4bdyursfk6",
+  "followers": 1418,
+  "posts": 1,
+  "how": "search",
+  "reason": "Same name, HyperWrite CEO bio"
+ },
+ "mervenoyann": {
+  "bluesky": "merve.bsky.social",
+  "did": "did:plc:3r5x3rucvnyue4gy4hy57cv7",
+  "followers": 8611,
+  "posts": 242,
+  "how": "search",
+  "reason": "Same name, open-sourceress at Hugging Face"
+ },
+ "lvwerra": {
+  "bluesky": "lvwerra.bsky.social",
+  "did": "did:plc:calbjciskqzf22lkfs67fusd",
+  "followers": 1174,
+  "posts": 11,
+  "how": "search",
+  "reason": "Same name, handle, Hugging Face research"
+ },
+ "_lewtun": {
+  "bluesky": "lewtun.bsky.social",
+  "did": "did:plc:zwzitcpdrkhcerm5hgmwjel7",
+  "followers": 592,
+  "posts": 13,
+  "how": "search",
+  "reason": "Same name, handle, Hugging Face bio"
+ },
+ "_philschmid": {
+  "bluesky": "philschmid.bsky.social",
+  "did": "did:plc:cr6tlijzhnczd7retqhnavcn",
+  "followers": 2929,
+  "posts": 75,
+  "how": "search",
+  "reason": "Same name, handle, ex-Hugging Face tech lead"
+ },
+ "reach_vb": {
+  "bluesky": "reach-vb.hf.co",
+  "did": "did:plc:nuqpydkh6dnkabwxo4tcdsj5",
+  "followers": 2854,
+  "posts": 56,
+  "how": "search",
+  "reason": "Equivalent handle, Hugging Face, F1 fan"
+ },
+ "maximelabonne": {
+  "bluesky": "maximelabonne.bsky.social",
+  "did": "did:plc:bxuwtxx2eae5uvnqvqsfw4fl",
+  "followers": 850,
+  "posts": 0,
+  "how": "search",
+  "reason": "Same name, Head of Post-Training LiquidAI"
+ },
+ "pcuenq": {
+  "bluesky": "pcuenq.hf.co",
+  "did": "did:plc:ajwv6x462sa2xx5oet2ddtly",
+  "followers": 879,
+  "posts": 8,
+  "how": "search",
+  "reason": "Same name, handle, Hugging Face ML engineer"
+ },
+ "xenovacom": {
+  "bluesky": "xenova.bsky.social",
+  "did": "did:plc:hxoyy5566qzkrchhsyubqzzk",
+  "followers": 2010,
+  "posts": 33,
+  "how": "search",
+  "reason": "Same name and identical Transformers.js bio"
+ },
+ "Prince_Canuma": {
+  "bluesky": "prince-canuma.bsky.social",
+  "did": "did:plc:3gvgfg563qekv3kawi4ejdhx",
+  "followers": 118,
+  "posts": 13,
+  "how": "search",
+  "reason": "Distinctive identical name and equivalent handle"
+ },
+ "realGeorgeHotz": {
+  "bluesky": "geohot.bsky.social",
+  "did": "did:plc:mti7qfbvav5zztfj6n65emfn",
+  "followers": 177,
+  "posts": 1,
+  "how": "search",
+  "reason": "Same name, well-known geohot handle"
+ },
+ "JayAlammar": {
+  "bluesky": "jayalammar.bsky.social",
+  "did": "did:plc:l2omzw4w2gqtjnuheuaz6gjc",
+  "followers": 1575,
+  "posts": 21,
+  "how": "search",
+  "reason": "Same name, handle, Cohere and O'Reilly bio"
+ },
+ "HamelHusain": {
+  "bluesky": "hamel.bsky.social",
+  "did": "did:plc:6umh2rqttv3dxohq7gaxjk36",
+  "followers": 6766,
+  "posts": 129,
+  "how": "search",
+  "reason": "Same name; 'evals evals evals' bio matches"
+ },
+ "eugeneyan": {
+  "bluesky": "eugeneyan.com",
+  "did": "did:plc:ilhs5ksfpze2l5rqgig4ycl6",
+  "followers": 10890,
+  "posts": 455,
+  "how": "search",
+  "reason": "Same name; Amazon, Alibaba, healthtech history match"
+ },
+ "sh_reya": {
+  "bluesky": "sh-reya.bsky.social",
+  "did": "did:plc:gwnfwxbiwrriq2azrzfiwexs",
+  "followers": 767,
+  "posts": 7,
+  "how": "search",
+  "reason": "Equivalent handle; same name; LLM data processing research"
+ },
+ "chipro": {
+  "bluesky": "chiphuyen.bsky.social",
+  "did": "did:plc:xdnifsedajxdcxn7wui6nxev",
+  "followers": 6114,
+  "posts": 14,
+  "how": "search",
+  "reason": "Same name, same books, references @chipro"
+ },
+ "alexalbert__": {
+  "bluesky": "alexalbert.bsky.social",
+  "did": "did:plc:gwey6dxyxvp4phtbtsbvcwgt",
+  "followers": 434,
+  "posts": 30,
+  "how": "search",
+  "reason": "Same name and handle; Anthropic in bio"
+ },
+ "bcherny": {
+  "bluesky": "bcherny.bsky.social",
+  "did": "did:plc:pnadan6drac5qlqsmwl7b6ef",
+  "followers": 1909,
+  "posts": 21,
+  "how": "search",
+  "reason": "Same handle/name; mirror bio names it official account"
+ },
+ "thorstenball": {
+  "bluesky": "thorstenball.com",
+  "did": "did:plc:mqqgy3lhxf37sp5nx2zc23mn",
+  "followers": 4976,
+  "posts": 732,
+  "how": "search",
+  "reason": "Same name; interpreter/compiler books, Register Spill"
+ },
+ "mitchellh": {
+  "bluesky": "mitchellh.com",
+  "did": "did:plc:onu3oqfahfubgbetlr4giknc",
+  "followers": 944,
+  "posts": 0,
+  "how": "search",
+  "reason": "Same name; handle is his personal domain"
+ },
+ "t3dotgg": {
+  "bluesky": "t3.gg",
+  "did": "did:plc:cy4af3hlkdaht7wltvdmc35k",
+  "followers": 42151,
+  "posts": 311,
+  "how": "search",
+  "reason": "Theo, CEO/YouTuber, t3.gg domain matches X handle"
+ },
+ "steipete": {
+  "bluesky": "steipete.me",
+  "did": "did:plc:nzev4hjdwuttjqdvdclp4pom",
+  "followers": 5854,
+  "posts": 448,
+  "how": "search",
+  "reason": "Same name and handle; PSPDFKit founder"
+ },
+ "shadcn": {
+  "bluesky": "shadcn.com",
+  "did": "did:plc:arv2tmqf7pe2hcakoedcf6bk",
+  "followers": 8821,
+  "posts": 15,
+  "how": "search",
+  "reason": "Same name; handle is shadcn.com domain"
+ },
+ "mattpocockuk": {
+  "bluesky": "mattpocock.com",
+  "did": "did:plc:oeio7zuhrsvmlyhia7e44nk6",
+  "followers": 15230,
+  "posts": 611,
+  "how": "search",
+  "reason": "Same name; Total TypeScript, ex-voice coach"
+ },
+ "jaredpalmer": {
+  "bluesky": "jaredpalmer.com",
+  "did": "did:plc:jswdvrojnr5klnyvbcnm3gg5",
+  "followers": 6764,
+  "posts": 31,
+  "how": "search",
+  "reason": "Same name; VP Engineering Cognition, references X handle"
+ },
+ "ryancarson": {
+  "bluesky": "ryancarson.com",
+  "did": "did:plc:3x47bx3zkgt3nhqcqujkquqe",
+  "followers": 276,
+  "posts": 14,
+  "how": "search",
+  "reason": "Same name, domain handle, serial startup founder"
+ },
+ "kwindla": {
+  "bluesky": "kwindla.bsky.social",
+  "did": "did:plc:nh4hmr533iuvuzbmzsz4wp6i",
+  "followers": 106,
+  "posts": 50,
+  "how": "search",
+  "reason": "Same handle; Daily and Pipecat in bio"
+ },
+ "LinusEkenstam": {
+  "bluesky": "linusekenstam.com",
+  "did": "did:plc:finr7fsvlnfc7cswcnlonf6w",
+  "followers": 2913,
+  "posts": 152,
+  "how": "search",
+  "reason": "Same name; domain matches X contact email"
+ },
+ "danshipper": {
+  "bluesky": "danshipper.bsky.social",
+  "did": "did:plc:ppmz5t7llcpdjmr4qxylk7e2",
+  "followers": 3121,
+  "posts": 13,
+  "how": "search",
+  "reason": "Same name and handle; co-founder of Every"
+ },
+ "gregisenberg": {
+  "bluesky": "gregisenberg.bsky.social",
+  "did": "did:plc:nnno4aa5nrtoe62iafzlvm3u",
+  "followers": 1211,
+  "posts": 5,
+  "how": "search",
+  "reason": "Same name; Late Checkout, Startup Ideas Podcast"
+ },
+ "StabilityAI": {
+  "bluesky": "stabilityai.bsky.social",
+  "did": "did:plc:6c2tuyu567v55frhzsdqeq3f",
+  "followers": 246,
+  "posts": 60,
+  "how": "search",
+  "reason": "Same name, identical bio, matching handle"
+ },
+ "ElevenLabs": {
+  "bluesky": "elevenlabs.io",
+  "did": "did:plc:mqhsiz6f5ljzw5tua64x5ocu",
+  "followers": 824,
+  "posts": 137,
+  "how": "search",
+  "reason": "Same name; official elevenlabs.io domain handle"
+ },
+ "fofrAI": {
+  "bluesky": "fofr.ai",
+  "did": "did:plc:2ezmrouupki7xccwb5ne3bje",
+  "followers": 3345,
+  "posts": 479,
+  "how": "search",
+  "reason": "Same name, Google DeepMind, own domain handle"
+ },
+ "cocktailpeanut": {
+  "bluesky": "cocktailpeanut.bsky.social",
+  "did": "did:plc:u6zhemuaqc3vchffns2t2r37",
+  "followers": 524,
+  "posts": 38,
+  "how": "search",
+  "reason": "Same handle, links pinokio.computer, their project"
+ },
+ "bilawalsidhu": {
+  "bluesky": "bilawal.bsky.social",
+  "did": "did:plc:yhuyje74vnqzldshegs5hnfd",
+  "followers": 1275,
+  "posts": 44,
+  "how": "search",
+  "reason": "Same name, spatial intelligence and AI bio"
+ },
+ "UnitreeRobotics": {
+  "bluesky": "unitreerobotics.bsky.social",
+  "did": "did:plc:3ndt2vwqfvf5n6r5hb4z7ech",
+  "followers": 172,
+  "posts": 0,
+  "how": "search",
+  "reason": "Identical handle and matching name"
+ },
+ "BostonDynamics": {
+  "bluesky": "boston-dynamics.bsky.social",
+  "did": "did:plc:3qadnttkakjtb3vebt7uvy3e",
+  "followers": 20,
+  "posts": 1,
+  "how": "search",
+  "reason": "Official bio with bostondynamics.com link"
+ },
+ "adcock_brett": {
+  "bluesky": "adcock.bsky.social",
+  "did": "did:plc:iaosmxegeta7vjlbkrwnk347",
+  "followers": 1589,
+  "posts": 30,
+  "how": "search",
+  "reason": "Same name; bio lists Figure, Cover, Archer"
+ },
+ "SemiAnalysis_": {
+  "bluesky": "semianalysis.bsky.social",
+  "did": "did:plc:tczx6ljlas5gs6cuaxz3ahy3",
+  "followers": 17,
+  "posts": 0,
+  "how": "search",
+  "reason": "Same name and handle; cross-posts their socials"
+ },
+ "ycombinator": {
+  "bluesky": "ycombinator.bsky.social",
+  "did": "did:plc:3i2p7ohhaxncgoo3h3g66e75",
+  "followers": 1731,
+  "posts": 5,
+  "how": "search",
+  "reason": "Matching handle, name YC, startup-building bio"
+ },
+ "testingcatalog": {
+  "bluesky": "testingcatalog.com",
+  "did": "did:plc:p34j5wr3ebfviwavnlcwknsf",
+  "followers": 906,
+  "posts": 3039,
+  "how": "search",
+  "reason": "Identical name, bio and own domain"
+ },
+ "reidhoffman": {
+  "bluesky": "reidhoffman.bsky.social",
+  "did": "did:plc:zsbwcse23cuh6oe3igsbwmqc",
+  "followers": 38730,
+  "posts": 71,
+  "how": "search",
+  "reason": "Same name, LinkedIn co-founder, cancer AI bio"
+ },
+ "lexfridman": {
+  "bluesky": "lexfridman.bsky.social",
+  "did": "did:plc:asqzx6rczsdyyyjr42d25j2s",
+  "followers": 13118,
+  "posts": 2,
+  "how": "search",
+  "reason": "Identical name, handle and bio"
+ },
+ "altryne": {
+  "bluesky": "altryne.bsky.social",
+  "did": "did:plc:oxq7gsaws2trdgda2jgwuvdj",
+  "followers": 3169,
+  "posts": 507,
+  "how": "search",
+  "reason": "Same handle, ThursdAI host, W&B evangelist"
+ },
+ "rowancheung": {
+  "bluesky": "rowancheung.bsky.social",
+  "did": "did:plc:53zs7v722gc3enmfiqznuxjv",
+  "followers": 2749,
+  "posts": 0,
+  "how": "search",
+  "reason": "Same name and Rundown AI bio"
+ },
+ "johncoogan": {
+  "bluesky": "johncoogan.bsky.social",
+  "did": "did:plc:23mpbqdlztt5sxgdbudtrvyi",
+  "followers": 123,
+  "posts": 0,
+  "how": "search",
+  "reason": "Exact handle and name match"
+ },
+ "MatthewBerman": {
+  "bluesky": "matthewberman.bsky.social",
+  "did": "did:plc:ie5fb4xt4d7kgxaqcgxieoor",
+  "followers": 196,
+  "posts": 388,
+  "how": "search",
+  "reason": "Exact handle and name match"
+ },
+ "mreflow": {
+  "bluesky": "mreflow.bsky.social",
+  "did": "did:plc:kptbv3dnc6kituni4j6vxeiz",
+  "followers": 2083,
+  "posts": 35,
+  "how": "search",
+  "reason": "Same handle, name, tech/AI YouTube bio"
+ },
+ "GergelyOrosz": {
+  "bluesky": "gergely.pragmaticengineer.com",
+  "did": "did:plc:3n5xhy6vl7smssmwxq5wgqa6",
+  "followers": 43369,
+  "posts": 4547,
+  "how": "search",
+  "reason": "Pragmatic Engineer bio and domain match"
+ },
+ "packyM": {
+  "bluesky": "packym.bsky.social",
+  "did": "did:plc:uhhgeyyd5y5fhk7tmgagopye",
+  "followers": 1618,
+  "posts": 7,
+  "how": "search",
+  "reason": "Same handle, name, and 'Not Boring' bio"
+ },
+ "emollick": {
+  "bluesky": "emollick.bsky.social",
+  "did": "did:plc:flxq4uyjfotciovpw3x3fxnu",
+  "followers": 37528,
+  "posts": 3360,
+  "how": "search",
+  "reason": "Same handle, Wharton AI professor bio"
+ },
+ "alliekmiller": {
+  "bluesky": "alliekmiller.bsky.social",
+  "did": "did:plc:5rkigsz4zqkha7u4djmhx4ku",
+  "followers": 928,
+  "posts": 0,
+  "how": "search",
+  "reason": "Exact handle and full name match"
+ },
+ "GaryMarcus": {
+  "bluesky": "garymarcus.bsky.social",
+  "did": "did:plc:yddiyagux5ossyt5342u52fb",
+  "followers": 31489,
+  "posts": 1404,
+  "how": "search",
+  "reason": "Same handle, AI/cognitive science bio"
+ },
+ "kevinroose": {
+  "bluesky": "kevinroose.com",
+  "did": "did:plc:743s7ikb5po2orglxfs43ins",
+  "followers": 64210,
+  "posts": 102,
+  "how": "search",
+  "reason": "Name, NYT tech/Hard Fork bio, personal domain"
+ },
+ "CaseyNewton": {
+  "bluesky": "caseynewton.bsky.social",
+  "did": "did:plc:jg7zvku4khzmvyjwbzv4lnly",
+  "followers": 320769,
+  "posts": 2804,
+  "how": "search",
+  "reason": "Same handle, Platformer/Machine Gods bio"
+ },
+ "karaswisher": {
+  "bluesky": "karaswisher.bsky.social",
+  "did": "did:plc:dwaduijo6ngdgzmir5vovzrh",
+  "followers": 440831,
+  "posts": 2800,
+  "how": "search",
+  "reason": "Exact handle and name match"
+ },
+ "Kantrowitz": {
+  "bluesky": "kantrowitz.bsky.social",
+  "did": "did:plc:wi26d2fzcwmxq777dir7aerf",
+  "followers": 7857,
+  "posts": 118,
+  "how": "search",
+  "reason": "Same handle, Big Technology bio"
+ },
+ "willknight": {
+  "bluesky": "willknight.bsky.social",
+  "did": "did:plc:ksxueivva4trq5mjc266n6tt",
+  "followers": 19587,
+  "posts": 43,
+  "how": "search",
+  "reason": "Same handle and Signal ID wak.01"
+ },
+ "naval": {
+  "bluesky": "nav.al",
+  "did": "did:plc:ezbhyhtvpakxvctgup7yo5ha",
+  "followers": 883,
+  "posts": 2,
+  "how": "search",
+  "reason": "Same name, bio, links to twitter.com/naval"
+ },
+ "eladgil": {
+  "bluesky": "eladgil.bsky.social",
+  "did": "did:plc:ydmbcqf2o4d6yvnqbdt5ieb2",
+  "followers": 2921,
+  "posts": 6,
+  "how": "search",
+  "reason": "Same handle, name, investor bio, eladgil.com"
+ },
+ "sriramk": {
+  "bluesky": "sriramk.bsky.social",
+  "did": "did:plc:lyglzp3q2k6knma5sdiqznmh",
+  "followers": 561,
+  "posts": 0,
+  "how": "search",
+  "reason": "Exact handle and full name match"
+ },
+ "btibor91": {
+  "bluesky": "btibor91.blaho.me",
+  "did": "did:plc:y23txuug5seoaujvkay7roo3",
+  "followers": 425,
+  "posts": 4960,
+  "how": "search",
+  "reason": "Same handle, name, AIPRM bio"
+ },
+ "tszzl": {
+  "bluesky": "tszzl.bsky.social",
+  "did": "did:plc:av2gd4jii45iud7ejmc3fr2v",
+  "followers": 8548,
+  "posts": 18,
+  "how": "search",
+  "reason": "Identical handle and name roon"
+ },
+ "TheZvi": {
+  "bluesky": "thezvi.bsky.social",
+  "did": "did:plc:otaorgzgidzlbzsb7ia2rwwj",
+  "followers": 2005,
+  "posts": 1,
+  "how": "search",
+  "reason": "Same name, handle; bio cites same Twitter handle"
+ },
+ "gwern": {
+  "bluesky": "gwern.bsky.social",
+  "did": "did:plc:bzshkcgt56xm7ipqjkngzprk",
+  "followers": 898,
+  "posts": 0,
+  "how": "search",
+  "reason": "Same stylized name, handle, bio gwern.net"
+ },
+ "EpochAIResearch": {
+  "bluesky": "epochai.bsky.social",
+  "did": "did:plc:enqyiq55ungiw6isng5amift",
+  "followers": 1725,
+  "posts": 1964,
+  "how": "search",
+  "reason": "Same name and near-identical bio"
+ },
+ "AISafetyMemes": {
+  "bluesky": "aisafetymemes.bsky.social",
+  "did": "did:plc:7p2cayijy3imnlgc3lqhplbm",
+  "followers": 594,
+  "posts": 8,
+  "how": "search",
+  "reason": "Identical name, handle, and bio"
+ },
+ "PauseAI": {
+  "bluesky": "pauseai.bsky.social",
+  "did": "did:plc:poltokxz5ydxqrg6tj2lll3o",
+  "followers": 949,
+  "posts": 445,
+  "how": "search",
+  "reason": "Same name, handle, near-identical bio"
+ },
+ "FLI_org": {
+  "bluesky": "futureoflife.org",
+  "did": "did:plc:zdjwjzhpt7lt7jvzmowsrygc",
+  "followers": 1078,
+  "posts": 129,
+  "how": "search",
+  "reason": "Same name, identical bio, official domain"
+ },
+ "StanfordHAI": {
+  "bluesky": "stanfordhai.bsky.social",
+  "did": "did:plc:x3v7jwickkzpc37wed7ckyyv",
+  "followers": 2983,
+  "posts": 165,
+  "how": "search",
+  "reason": "Same name, handle, matching official bio"
+ },
+ "CSETGeorgetown": {
+  "bluesky": "csetgeorgetown.bsky.social",
+  "did": "did:plc:g65wgrgnkj4lo7pc3kwwzxei",
+  "followers": 687,
+  "posts": 305,
+  "how": "search",
+  "reason": "Same name, handle, identical bio"
+ },
+ "emilymbender": {
+  "bluesky": "emilymbender.bsky.social",
+  "did": "did:plc:aeug3w4mdhnc2wv73hmrh36v",
+  "followers": 46286,
+  "posts": 5093,
+  "how": "search",
+  "reason": "X name points to this handle; UW site"
+ },
+ "mmitchell_ai": {
+  "bluesky": "mmitchell.bsky.social",
+  "did": "did:plc:3tmaleaxipegsectvamyrkyi",
+  "followers": 24400,
+  "posts": 1999,
+  "how": "search",
+  "reason": "Margaret Mitchell, matching AI ethics bio"
+ },
+ "random_walker": {
+  "bluesky": "randomwalker.bsky.social",
+  "did": "did:plc:h3imi5zmcoqinwouamcnuh7m",
+  "followers": 24264,
+  "posts": 160,
+  "how": "search",
+  "reason": "Same name, handle, Princeton, AI Snake Oil"
+ },
+ "sayashk": {
+  "bluesky": "sayash.bsky.social",
+  "did": "did:plc:2nlppqeeihrk7pkhwpozeazu",
+  "followers": 8789,
+  "posts": 40,
+  "how": "search",
+  "reason": "Same name, AI Snake Oil, Princeton"
+ },
+ "robbensinger": {
+  "bluesky": "robbensinger.bsky.social",
+  "did": "did:plc:45n67ix4xpuraj7v7imww2og",
+  "followers": 628,
+  "posts": 99,
+  "how": "search",
+  "reason": "Identical handle and full name"
+ },
+ "janleike": {
+  "bluesky": "janleike.bsky.social",
+  "did": "did:plc:fkbg3b64aewqksh2t4y743hn",
+  "followers": 57,
+  "posts": 0,
+  "how": "search",
+  "reason": "Same handle, near-identical Anthropic bio"
+ },
+ "ch402": {
+  "bluesky": "colah.bsky.social",
+  "did": "did:plc:6lpstfkmmc4rpy54kqylbdxt",
+  "followers": 7169,
+  "posts": 41,
+  "how": "search",
+  "reason": "Same name, near-identical bio"
+ },
+ "sleepinyourhat": {
+  "bluesky": "sleepinyourhat.bsky.social",
+  "did": "did:plc:dsxewietk5tigqvn6daod2l6",
+  "followers": 8096,
+  "posts": 11,
+  "how": "search",
+  "reason": "Same handle, Anthropic, NYU, Giving What We Can"
+ },
+ "bshlgrs": {
+  "bluesky": "bshlgrs.bsky.social",
+  "did": "did:plc:xnllkqjtrzvlux4uv3lvmvxe",
+  "followers": 491,
+  "posts": 1,
+  "how": "search",
+  "reason": "Identical unusual handle and full name"
+ },
+ "RyanGreenblatt": {
+  "bluesky": "ryangreenblatt.bsky.social",
+  "did": "did:plc:ggvl6ondkt7r5cia6k64r544",
+  "followers": 58,
+  "posts": 18,
+  "how": "search",
+  "reason": "Same name, handle, AI safety work"
+ },
+ "StephenLCasper": {
+  "bluesky": "scasper.bsky.social",
+  "did": "did:plc:yiwxijbeyioxmvbtbclppgga",
+  "followers": 405,
+  "posts": 606,
+  "how": "search",
+  "reason": "Identical name and Harvard Kennedy bio"
+ },
+ "Yoshua_Bengio": {
+  "bluesky": "yoshuabengio.bsky.social",
+  "did": "did:plc:3ezp6hkpykqzyexh2kzjybij",
+  "followers": 9331,
+  "posts": 306,
+  "how": "search",
+  "reason": "Same name; bio matches Mila, LawZero, Turing Award"
+ },
+ "NPCollapse": {
+  "bluesky": "npcollapse.bsky.social",
+  "did": "did:plc:chwwiowbxumsrwkgdkhzg2m5",
+  "followers": 484,
+  "posts": 0,
+  "how": "search",
+  "reason": "Same handle, name, and 'save the world' tagline"
+ },
+ "eli_lifland": {
+  "bluesky": "elifland.bsky.social",
+  "did": "did:plc:kdjddsowvox4pgcpnchum2ut",
+  "followers": 152,
+  "posts": 2,
+  "how": "search",
+  "reason": "Same distinctive name and equivalent handle"
+ },
+ "peterwildeford": {
+  "bluesky": "peterwildeford.bsky.social",
+  "did": "did:plc:xfq5tigqntyy3qpnucat3436",
+  "followers": 2970,
+  "posts": 487,
+  "how": "search",
+  "reason": "Same name, handle, forecaster and superintelligence bio"
+ },
+ "jackclarkSF": {
+  "bluesky": "jackclarksf.bsky.social",
+  "did": "did:plc:akafyf3i7lq3xrmthb2oasin",
+  "followers": 2288,
+  "posts": 3,
+  "how": "search",
+  "reason": "Same handle; bio cites Anthropic, Import AI, OpenAI"
+ },
+ "Miles_Brundage": {
+  "bluesky": "milesbrundage.bsky.social",
+  "did": "did:plc:hvve5fezjuf3zlax5gsrhmaz",
+  "followers": 12041,
+  "posts": 3,
+  "how": "search",
+  "reason": "Same name; bio matches AVERI, wife guy, Substacker"
+ },
+ "hamandcheese": {
+  "bluesky": "hamandcheese.bsky.social",
+  "did": "did:plc:wpcmqgbpqkdka5emevxsq5lf",
+  "followers": 1686,
+  "posts": 1,
+  "how": "search",
+  "reason": "Same handle and name; secondbest site matches"
+ },
+ "deanwball": {
+  "bluesky": "deanwb.bsky.social",
+  "did": "did:plc:bssaq26vlxyhe3hsakqo3c4t",
+  "followers": 1825,
+  "posts": 43,
+  "how": "search",
+  "reason": "Same full name; Hyperdimensional is his newsletter"
+ },
+ "ShakeelHashim": {
+  "bluesky": "shakeelhashim.com",
+  "did": "did:plc:yglgi55pza6ae27bnrk45iqc",
+  "followers": 3661,
+  "posts": 250,
+  "how": "search",
+  "reason": "Bio matches Transformer, Economist, Protocol, Finimize"
+ },
+ "ilex_ulmus": {
+  "bluesky": "ilex-ulmus.bsky.social",
+  "did": "did:plc:b7blkvvod7hdqgt7fin7wbre",
+  "followers": 538,
+  "posts": 53,
+  "how": "search",
+  "reason": "Same handle, name, and PauseAI US bio"
+ },
+ "tobyordoxford": {
+  "bluesky": "tobyord.bsky.social",
+  "did": "did:plc:giqjsb4j3mkbic6uwwk3hgmj",
+  "followers": 1065,
+  "posts": 253,
+  "how": "search",
+  "reason": "Same name and identical bio"
+ },
+ "NeurIPSConf": {
+  "bluesky": "neuripsconf.bsky.social",
+  "did": "did:plc:g33cnm3fehljgbbzhemekrh5",
+  "followers": 6231,
+  "posts": 206,
+  "how": "search",
+  "reason": "Same name, handle, townhall@neurips.cc"
+ },
+ "roydanroy": {
+  "bluesky": "roydanroy.bsky.social",
+  "did": "did:plc:ir4q5yrovw6q55newvfievxk",
+  "followers": 8519,
+  "posts": 154,
+  "how": "search",
+  "reason": "Same handle; Vector, UofT, danroy.org match"
+ },
+ "moltbook": {
+  "bluesky": "moltbook.bsky.social",
+  "did": "did:plc:xbm2qlxig47awzf5diceolsa",
+  "followers": 146,
+  "posts": 15,
+  "how": "search",
+  "reason": "Same distinctive brand name and handle"
+ },
+ "zacharylipton": {
+  "bluesky": "zacharylipton.bsky.social",
+  "did": "did:plc:mkityqvycgj7soirtryvd43z",
+  "followers": 9806,
+  "posts": 79,
+  "how": "search",
+  "reason": "Same name; Abridge, CMU, d2l.ai match"
+ },
+ "CSProfKGD": {
+  "bluesky": "csprofkgd.bsky.social",
+  "did": "did:plc:rw7myp4fw6ysrxkgzl6qpkcq",
+  "followers": 3703,
+  "posts": 1914,
+  "how": "search",
+  "reason": "Same handle, name, York, Vector, website"
+ },
+ "tunguz": {
+  "bluesky": "tunguz.bsky.social",
+  "did": "did:plc:qrobjxmdsmmv5ddh7wm6kbik",
+  "followers": 2997,
+  "posts": 884,
+  "how": "search",
+  "reason": "Same name and handle; XGBoost bio matches"
+ },
+ "docmilanfar": {
+  "bluesky": "docmilanfar.bsky.social",
+  "did": "did:plc:y4d7dnrfilcdwczz2eqyf3bk",
+  "followers": 3552,
+  "posts": 230,
+  "how": "search",
+  "reason": "Same name, handle, Google role, website"
+ },
+ "jm_alexia": {
+  "bluesky": "alexiajm.bsky.social",
+  "did": "did:plc:ncobyzjsoag5dl2bmql62ywi",
+  "followers": 986,
+  "posts": 10,
+  "how": "search",
+  "reason": "Same unique name, near-identical generative AI bio"
+ },
+ "levie": {
+  "bluesky": "levie.bsky.social",
+  "did": "did:plc:k545cz57fruqs7r4c5frb3ch",
+  "followers": 3249,
+  "posts": 1,
+  "how": "search",
+  "reason": "Identical handle and full name"
+ },
+ "natashajaques": {
+  "bluesky": "natashajaques.bsky.social",
+  "did": "did:plc:pw72kxwzoyvcn2wz6iydf2p2",
+  "followers": 4429,
+  "posts": 52,
+  "how": "search",
+  "reason": "Same name, handle, UW and Google roles"
+ },
+ "iamtrask": {
+  "bluesky": "iamtrask.bsky.social",
+  "did": "did:plc:uzyryyklesnbd7ilwvggj2sv",
+  "followers": 243,
+  "posts": 0,
+  "how": "search",
+  "reason": "Identical handle and full name"
+ },
+ "rohanpaul_ai": {
+  "bluesky": "rohanpaul.bsky.social",
+  "did": "did:plc:m5waglz2caxzi43hua6btvnh",
+  "followers": 235,
+  "posts": 3,
+  "how": "search",
+  "reason": "Bio links X handle and same website"
+ },
+ "embirico": {
+  "bluesky": "embirico.bsky.social",
+  "did": "did:plc:4jvif72cpiyrlxkvjodtqsev",
+  "followers": 108,
+  "posts": 10,
+  "how": "search",
+  "reason": "Identical handle and distinctive full name"
+ },
+ "addyosmani": {
+  "bluesky": "addyosmani.bsky.social",
+  "did": "did:plc:ympscj7qcsrcpj4qz35qhs3v",
+  "followers": 23765,
+  "posts": 465,
+  "how": "search",
+  "reason": "Same name, handle, and website"
+ },
+ "MattNiessner": {
+  "bluesky": "niessner.bsky.social",
+  "did": "did:plc:a6spkrza5pf2io4mzo5u4skl",
+  "followers": 2490,
+  "posts": 101,
+  "how": "search",
+  "reason": "Identical bio, TUM, Synthesia, same website"
+ },
+ "littmath": {
+  "bluesky": "littmath.bsky.social",
+  "did": "did:plc:wvexgwndckqyszwviyuoeibi",
+  "followers": 5932,
+  "posts": 779,
+  "how": "search",
+  "reason": "Same name, handle, Toronto math bio"
+ },
+ "MelMitchell1": {
+  "bluesky": "melaniemitchell.bsky.social",
+  "did": "did:plc:p72jkscm4rt4xuep3lzv6doh",
+  "followers": 26864,
+  "posts": 752,
+  "how": "search",
+  "reason": "Santa Fe Institute bio, same website"
+ },
+ "_nateraw": {
+  "bluesky": "raw.bsky.social",
+  "did": "did:plc:eqkkxjqgyjpzqlgophrsqf5y",
+  "followers": 1286,
+  "posts": 25,
+  "how": "search",
+  "reason": "Same name, ML hacker bio, same GitHub link"
+ },
+ "AlexGDimakis": {
+  "bluesky": "alexdimakis.bsky.social",
+  "did": "did:plc:6ujtfcepeqrcpxwfe7otnzqh",
+  "followers": 1044,
+  "posts": 23,
+  "how": "search",
+  "reason": "Same name, UC Berkeley professor, Bespoke Labs cofounder"
+ },
+ "tom_doerr": {
+  "bluesky": "tom-doerr.bsky.social",
+  "did": "did:plc:wrkapohdwvaer4yxkm5d3wqo",
+  "followers": 986,
+  "posts": 61513,
+  "how": "search",
+  "reason": "Same name and identical bio about GitHub repos, DSPy"
+ },
+ "kalomaze": {
+  "bluesky": "kalomaze.bsky.social",
+  "did": "did:plc:cp3cnm2pzqjrsfdwc52sze3g",
+  "followers": 778,
+  "posts": 26,
+  "how": "search",
+  "reason": "Same unique handle, ML engineering bio"
+ },
+ "RemiCadene": {
+  "bluesky": "remicadene.bsky.social",
+  "did": "did:plc:23hrxr4h2o5tksjhlf7db34g",
+  "followers": 2560,
+  "posts": 111,
+  "how": "search",
+  "reason": "Same name and handle, LeRobot/HuggingFace robotics"
+ },
+ "chris_j_paxton": {
+  "bluesky": "cpaxton.bsky.social",
+  "did": "did:plc:tq6gqh5aaohgi55y2yofylwj",
+  "followers": 7183,
+  "posts": 5517,
+  "how": "search",
+  "reason": "Same name, robots, same itcanthink substack"
+ },
+ "sammcallister": {
+  "bluesky": "sammcallister.bsky.social",
+  "did": "did:plc:ydag2moz5r75pemjfwhyyusf",
+  "followers": 522,
+  "posts": 1,
+  "how": "search",
+  "reason": "Same name, smca, Anthropic, prev Stripe"
+ },
+ "WiMLworkshop": {
+  "bluesky": "wimlworkshop.bsky.social",
+  "did": "did:plc:ylvtvnp74v5e3b2zdyg3y7dd",
+  "followers": 112,
+  "posts": 45,
+  "how": "search",
+  "reason": "Identical org name, bio, and website"
+ },
+ "ShamKakade6": {
+  "bluesky": "shamkakade.bsky.social",
+  "did": "did:plc:5n4tz3ody4w3ctm4u3concvp",
+  "followers": 942,
+  "posts": 5,
+  "how": "search",
+  "reason": "Same name, Harvard/Kempner, same website"
+ },
+ "dileeplearning": {
+  "bluesky": "dileeplearning.bsky.social",
+  "did": "did:plc:y64e6ppkzxt2s66oxf6edko4",
+  "followers": 11933,
+  "posts": 344,
+  "how": "search",
+  "reason": "Same name and handle, Vicarious/Numenta/DeepMind"
+ },
+ "AdinaYakup": {
+  "bluesky": "adinayakup.bsky.social",
+  "did": "did:plc:ycmvakcgicie5gd2mp4btjoe",
+  "followers": 1303,
+  "posts": 386,
+  "how": "search",
+  "reason": "Same name, Hugging Face"
+ },
+ "code": {
+  "bluesky": "vscode.dev",
+  "did": "did:plc:2xibtqlq4oplg5hkbqw56xgu",
+  "followers": 21935,
+  "posts": 986,
+  "how": "search",
+  "reason": "Same name and bio, official vscode.dev domain"
+ },
+ "BradSmi": {
+  "bluesky": "bradsmi.bsky.social",
+  "did": "did:plc:uwkusmbmmlqn3z4cswsveylv",
+  "followers": 291,
+  "posts": 115,
+  "how": "search",
+  "reason": "Same name, identical Microsoft/Tools and Weapons bio"
+ },
+ "math_rachel": {
+  "bluesky": "math-rachel.bsky.social",
+  "did": "did:plc:afdegfqhmtik2eyz6kdpguqj",
+  "followers": 5354,
+  "posts": 95,
+  "how": "search",
+  "reason": "Same name, fast.ai/answer.ai, same website"
+ },
+ "cixliv": {
+  "bluesky": "cix.bsky.social",
+  "did": "did:plc:ol63en6zg3tg5qfhn772en6h",
+  "followers": 627,
+  "posts": 20,
+  "how": "search",
+  "reason": "Same name Cix, XR founder, robotics interest"
+ },
+ "rao2z": {
+  "bluesky": "rao2z.bsky.social",
+  "did": "did:plc:pug4wfnm4cmjosacpcveur5x",
+  "followers": 1008,
+  "posts": 109,
+  "how": "search",
+  "reason": "Identical name, bio; X bio cites Bsky rao2z"
+ },
+ "simpsoka": {
+  "bluesky": "kath.bsky.social",
+  "did": "did:plc:wawggpomgn2qqeaxkk2xxlrm",
+  "followers": 75,
+  "posts": 2,
+  "how": "search",
+  "reason": "Name Kath Korevec, bio references Simpsoka handle"
+ },
+ "xwang_lk": {
+  "bluesky": "ericxw.bsky.social",
+  "did": "did:plc:hg55q2q5y7tl7zkvcqr7dpww",
+  "followers": 966,
+  "posts": 29,
+  "how": "search",
+  "reason": "Same name, Simular, same website"
+ },
+ "JFPuget": {
+  "bluesky": "jfpuget.bsky.social",
+  "did": "did:plc:b7kk74nxncnygzphhha5z42e",
+  "followers": 653,
+  "posts": 93,
+  "how": "search",
+  "reason": "Same handle, NVIDIA, Kaggle CPMP profile matches"
+ },
+ "guohao_li": {
+  "bluesky": "guohaoli.bsky.social",
+  "did": "did:plc:axn3byvlbiypmd332l3zibjp",
+  "followers": 85,
+  "posts": 3,
+  "how": "search",
+  "reason": "Same name, CAMEL founder, matching history"
+ },
+ "Khipu_AI": {
+  "bluesky": "khipu-ai.bsky.social",
+  "did": "did:plc:zaxbpu4uotnooy6jqxjxprsj",
+  "followers": 100,
+  "posts": 78,
+  "how": "search",
+  "reason": "Identical name, bio, and website"
+ },
+ "paraga": {
+  "bluesky": "para.ga",
+  "did": "did:plc:7m2ntd2fzxhnjizkpfahmvez",
+  "followers": 3739,
+  "posts": 0,
+  "how": "search",
+  "reason": "Same name; domain handle mirrors X handle exactly"
+ },
+ "jaykreps": {
+  "bluesky": "jaykreps.bsky.social",
+  "did": "did:plc:kl2ozr4jpgl6lmsqdbpnmgv2",
+  "followers": 2223,
+  "posts": 1,
+  "how": "search",
+  "reason": "Identical handle and full name"
+ },
+ "JamesMontemagno": {
+  "bluesky": "james.montemagno.com",
+  "did": "did:plc:cnkcdjrvp5b27gqmdsbpbn5o",
+  "followers": 1333,
+  "posts": 166,
+  "how": "search",
+  "reason": "Same name, Microsoft developer community lead"
+ },
+ "tkipf": {
+  "bluesky": "tkipf.bsky.social",
+  "did": "did:plc:xxc3q4ia7yy6ij5h75d6qo72",
+  "followers": 6396,
+  "posts": 24,
+  "how": "search",
+  "reason": "Same name, Google DeepMind, Veo, world models"
+ },
+ "NielsRogge": {
+  "bluesky": "nielsrogge.bsky.social",
+  "did": "did:plc:5vkrkjlpkes432jjfqusriuu",
+  "followers": 238,
+  "posts": 0,
+  "how": "search",
+  "reason": "Same handle, ML engineer at Hugging Face"
+ },
+ "jerrod_lew": {
+  "bluesky": "jerrodlew.bsky.social",
+  "did": "did:plc:ss2vhpxbencjmh7pgqyslcnl",
+  "followers": 757,
+  "posts": 67,
+  "how": "search",
+  "reason": "Same name and website jerrodlew.com"
+ },
+ "SkildAI": {
+  "bluesky": "skildai.bsky.social",
+  "did": "did:plc:uzxhobkujqx3iqc2znux4esq",
+  "followers": 7,
+  "posts": 0,
+  "how": "search",
+  "reason": "Identical name, bio, and website"
+ }
+}

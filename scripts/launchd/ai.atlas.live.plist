@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Runs the live pipeline every hour while you're logged in. Install: npm run live-schedule; remove:
+     npm run live-unschedule. -->
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>ai.atlas.live</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/Users/sinem/Documents/side_projects/ai-atlas/scripts/live-run.sh</string>
+  </array>
+  <key>StartInterval</key>
+  <integer>3600</integer>
+  <key>RunAtLoad</key>
+  <false/>
+  <key>StandardErrorPath</key>
+  <string>/Users/sinem/Documents/side_projects/ai-atlas/data/raw/live/logs/launchd.err</string>
+</dict>
+</plist>

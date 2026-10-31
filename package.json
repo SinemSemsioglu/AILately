@@ -1,0 +1,43 @@
+{
+  "name": "ai-lately",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "pilot": "node --env-file-if-exists=.env scripts/pilot.mjs",
+    "explore-links": "node --env-file-if-exists=.env scripts/explore-links.mjs",
+    "match-bluesky": "node scripts/match-bluesky.mjs",
+    "explore-bluesky": "node scripts/explore-bluesky.mjs",
+    "round0": "node --env-file-if-exists=.env scripts/round0.mjs",
+    "fetch-following": "node --env-file-if-exists=.env scripts/fetch-following.mjs",
+    "analyze": "node scripts/analyze.mjs",
+    "classify-candidates": "node scripts/classify-candidates.mjs",
+    "classify-following": "node scripts/classify-following.mjs",
+    "build-atlas": "node scripts/build-atlas.mjs",
+    "explore-papers": "node scripts/explore-papers.mjs",
+    "fetch-sources": "node --env-file-if-exists=.env scripts/fetch-sources.mjs",
+    "merge-sources": "node scripts/merge-sources.mjs",
+    "verify-papers": "node scripts/verify-papers.mjs",
+    "write-briefing": "node scripts/write-briefing.mjs",
+    "live-fetch": "node --env-file-if-exists=.env scripts/live-fetch.mjs",
+    "live-score": "node scripts/live-score.mjs",
+    "live-topics": "node scripts/live-topics.mjs",
+    "live-build": "node scripts/live-build.mjs",
+    "live": "npm run live-fetch && npm run live-score && npm run live-topics && npm run live-sources && npm run live-build",
+    "live-sources": "node --env-file-if-exists=.env scripts/live-sources.mjs",
+    "live-schedule": "cp scripts/launchd/ai.atlas.live.plist ~/Library/LaunchAgents/ && launchctl load ~/Library/LaunchAgents/ai.atlas.live.plist && echo \"Live pipeline scheduled hourly\"",
+    "live-unschedule": "launchctl unload ~/Library/LaunchAgents/ai.atlas.live.plist; rm -f ~/Library/LaunchAgents/ai.atlas.live.plist && echo \"Live pipeline unscheduled\"",
+    "save-profiles": "node scripts/save-profiles.mjs",
+    "deploy": "vite build && wrangler pages deploy dist --project-name ai-lately --branch main"
+  },
+  "dependencies": {
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0",
+    "wrangler": "^3.114.17"
+  }
+}

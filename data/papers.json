@@ -1,0 +1,2097 @@
+{
+ "arthurmensch": {
+  "id": "A5110691380",
+  "name": "Arthur Mensch",
+  "works": 19,
+  "citations": 4682,
+  "hIndex": 10,
+  "institution": "",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "GuillaumeLample": {
+  "id": "A5054371148",
+  "name": "Guillaume Lample",
+  "works": 56,
+  "citations": 18929,
+  "hIndex": 33,
+  "institution": "",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "ylecun": {
+  "id": "A5001226970",
+  "name": "Yann LeCun",
+  "works": 548,
+  "citations": 210581,
+  "hIndex": 129,
+  "institution": "Centre National de la Recherche Scientifique",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "natolambert": {
+  "id": "A5083548887",
+  "name": "Nathan Lambert",
+  "works": 65,
+  "citations": 975,
+  "hIndex": 14,
+  "institution": "Fermi National Accelerator Laboratory",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "giffmana": {
+  "id": "A5055629014",
+  "name": "Lucas Beyer",
+  "works": 59,
+  "citations": 34590,
+  "hIndex": 32,
+  "institution": "",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "JustinLin610": {
+  "id": "A5100612233",
+  "name": "Junyang Lin",
+  "works": 123,
+  "citations": 4383,
+  "hIndex": 32,
+  "institution": "Alibaba Group (China)",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "jefrankle": {
+  "id": "A5078716102",
+  "name": "Jonathan Frankle",
+  "works": 53,
+  "citations": 4336,
+  "hIndex": 19,
+  "institution": "",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "chrmanning": {
+  "id": "A5046006076",
+  "name": "Christopher D. Manning",
+  "works": 780,
+  "citations": 185798,
+  "hIndex": 140,
+  "institution": "Stanford University",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "sarahookr": {
+  "id": "A5078850040",
+  "name": "Sara Hooker",
+  "works": 120,
+  "citations": 3366,
+  "hIndex": 23,
+  "institution": "Cohere (Canada)",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "douwekiela": {
+  "id": "A5016956470",
+  "name": "Douwe Kiela",
+  "works": 188,
+  "citations": 18327,
+  "hIndex": 56,
+  "institution": "Contextual Change (United States)",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "gneubig": {
+  "id": "A5068811427",
+  "name": "Graham Neubig",
+  "works": 630,
+  "citations": 26724,
+  "hIndex": 77,
+  "institution": "Princeton University",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "_albertgu": {
+  "id": "A5025386668",
+  "name": "Albert Gu",
+  "works": 76,
+  "citations": 4574,
+  "hIndex": 22,
+  "institution": "Carnegie Mellon University",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "francoisfleuret": {
+  "id": "A5076094010",
+  "name": "François Fleuret",
+  "works": 185,
+  "citations": 9281,
+  "hIndex": 42,
+  "institution": "University of Geneva",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "BlancheMinerva": {
+  "id": "A5076733732",
+  "name": "Stella Biderman",
+  "works": 92,
+  "citations": 5288,
+  "hIndex": 25,
+  "institution": "Iowa State University",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "Nils_Reimers": {
+  "id": "A5110592354",
+  "name": "Nils Reimers",
+  "works": 75,
+  "citations": 16538,
+  "hIndex": 24,
+  "institution": "Cohere (Canada)",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "iScienceLuvr": {
+  "id": "A5028004251",
+  "name": "Tanishq Mathew Abraham",
+  "works": 28,
+  "citations": 337,
+  "hIndex": 7,
+  "institution": "",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "Francis_YAO_": {
+  "id": "A5101802365",
+  "name": "Yao Fu",
+  "works": 18,
+  "citations": 156,
+  "hIndex": 6,
+  "institution": "Shenyang Jianzhu University",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "WenhuChen": {
+  "id": "A5103103242",
+  "name": "Wenhu Chen",
+  "works": 167,
+  "citations": 6031,
+  "hIndex": 38,
+  "institution": "University of Waterloo",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "arankomatsuzaki": {
+  "id": "A5029192838",
+  "name": "Aran Komatsuzaki",
+  "works": 6,
+  "citations": 414,
+  "hIndex": 4,
+  "institution": "Georgia Institute of Technology",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "julien_c": {
+  "id": "A5038505596",
+  "name": "Julien Chaumond",
+  "works": 17,
+  "citations": 18260,
+  "hIndex": 7,
+  "institution": "",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "mervenoyann": {
+  "id": "A5083450909",
+  "name": "Merve Noyan",
+  "works": 2,
+  "citations": 12,
+  "hIndex": 1,
+  "institution": "Stanford University",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "lvwerra": {
+  "id": "A5008355834",
+  "name": "Leandro von Werra",
+  "works": 40,
+  "citations": 1134,
+  "hIndex": 13,
+  "institution": "Hugging Face",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "_lewtun": {
+  "id": "A5063084634",
+  "name": "Lewis Tunstall",
+  "works": 17,
+  "citations": 581,
+  "hIndex": 7,
+  "institution": "Hugging Face",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "stasbekman": {
+  "id": "A5079005032",
+  "name": "Stas Bekman",
+  "works": 18,
+  "citations": 770,
+  "hIndex": 6,
+  "institution": "",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "osanseviero": {
+  "id": "A5089085100",
+  "name": "Omar Sanseviero",
+  "works": 15,
+  "citations": 690,
+  "hIndex": 6,
+  "institution": "Google (United States)",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "maximelabonne": {
+  "id": "A5073274232",
+  "name": "Maxime Labonne",
+  "works": 20,
+  "citations": 159,
+  "hIndex": 7,
+  "institution": "",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "pcuenq": {
+  "id": "A5120393888",
+  "name": "Pedro Cuenca",
+  "works": 1,
+  "citations": 11,
+  "hIndex": 1,
+  "institution": "Stanford University",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "awnihannun": {
+  "id": "A5087325198",
+  "name": "Awni Hannun",
+  "works": 61,
+  "citations": 9535,
+  "hIndex": 24,
+  "institution": "",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "sh_reya": {
+  "id": "A5023956968",
+  "name": "Shreya Shankar",
+  "works": 51,
+  "citations": 897,
+  "hIndex": 14,
+  "institution": "Shanghai Jiao Tong University",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "NeelNanda5": {
+  "id": "A5044489746",
+  "name": "Neel Nanda",
+  "works": 78,
+  "citations": 1112,
+  "hIndex": 11,
+  "institution": "Stanford University",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "EvanHub": {
+  "id": "A5025461840",
+  "name": "Evan Hubinger",
+  "works": 29,
+  "citations": 550,
+  "hIndex": 10,
+  "institution": "Anthropic (United States)",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "hendrycks": {
+  "id": "A5020400986",
+  "name": "Dan Hendrycks",
+  "works": 81,
+  "citations": 17649,
+  "hIndex": 40,
+  "institution": "",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "jm_alexia": {
+  "id": "A5011012516",
+  "name": "Alexia Jolicoeur‐Martineau",
+  "works": 72,
+  "citations": 1648,
+  "hIndex": 15,
+  "institution": "Microsoft (United States)",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "suchenzang": {
+  "id": "A5063484880",
+  "name": "Susan Zhang",
+  "works": 2,
+  "citations": 32,
+  "hIndex": 2,
+  "institution": "",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "tydsh": {
+  "id": "A5106668475",
+  "name": "Yuandong Tian",
+  "works": 116,
+  "citations": 5165,
+  "hIndex": 32,
+  "institution": "Carnegie Mellon University",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "wightmanr": {
+  "id": "A5048883432",
+  "name": "Ross Wightman",
+  "works": 12,
+  "citations": 3005,
+  "hIndex": 7,
+  "institution": "",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "chris_j_paxton": {
+  "id": "A5044926286",
+  "name": "Chris Paxton",
+  "works": 79,
+  "citations": 2545,
+  "hIndex": 30,
+  "institution": "",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "agarwl_": {
+  "id": "A5070953294",
+  "name": "Rishabh Agarwal",
+  "works": 60,
+  "citations": 1845,
+  "hIndex": 16,
+  "institution": "",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "RisingSayak": {
+  "id": "A5043910691",
+  "name": "Sayak Paul",
+  "works": 35,
+  "citations": 894,
+  "hIndex": 9,
+  "institution": "Hugging Face",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "NielsRogge": {
+  "id": "A5129038349",
+  "name": "Niels Rogge",
+  "works": 2,
+  "citations": 0,
+  "hIndex": 0,
+  "institution": "",
+  "verdict": "confirmed",
+  "via": "huggingface papers"
+ },
+ "karpathy": {
+  "id": "A5009290031",
+  "name": "Andrej Karpathy",
+  "works": 33,
+  "citations": 57855,
+  "hIndex": 19,
+  "institution": "Yale University",
+  "topics": [
+   "Advanced Image and Video Retrieval Techniques",
+   "Multimodal Machine Learning Applications",
+   "Advanced Neural Network Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "AndrewYNg": {
+  "id": "A5102617494",
+  "name": "Andrew Y. Ng",
+  "works": 340,
+  "citations": 131048,
+  "hIndex": 108,
+  "institution": "Stanford University",
+  "topics": [
+   "Reinforcement Learning in Robotics",
+   "Machine Learning and Algorithms",
+   "Advanced Neural Network Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "geoffreyhinton": {
+  "id": "A5108093963",
+  "name": "Geoffrey E. Hinton",
+  "works": 558,
+  "citations": 530273,
+  "hIndex": 150,
+  "institution": "Microsoft (United States)",
+  "topics": [
+   "Neural Networks and Applications",
+   "Bayesian Modeling and Causal Inference",
+   "Advanced Neural Network Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "JeffDean": {
+  "id": "A5011889606",
+  "name": "Jeff Dean",
+  "works": 51,
+  "citations": 46094,
+  "hIndex": 28,
+  "institution": "",
+  "topics": [
+   "Advanced Neural Network Applications",
+   "Topic Modeling",
+   "Domain Adaptation and Few-Shot Learning"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "goodfellow_ian": {
+  "id": "A5004271128",
+  "name": "Ian Goodfellow",
+  "works": 131,
+  "citations": 119470,
+  "hIndex": 65,
+  "institution": "",
+  "topics": [
+   "Adversarial Robustness in Machine Learning",
+   "Neural Networks and Applications",
+   "Advanced Neural Network Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "_jasonwei": {
+  "id": "A5078446912",
+  "name": "Jason Wei",
+  "works": 37,
+  "citations": 9863,
+  "hIndex": 21,
+  "institution": "OpenAI (United States)",
+  "topics": [
+   "Topic Modeling",
+   "AI in cancer detection",
+   "Natural Language Processing Techniques"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "polynoamial": {
+  "id": "A5006744201",
+  "name": "Noam Brown",
+  "works": 43,
+  "citations": 2278,
+  "hIndex": 18,
+  "institution": "Meta (United States)",
+  "topics": [
+   "Artificial Intelligence in Games",
+   "Game Theory and Applications",
+   "Reinforcement Learning in Robotics"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "OriolVinyalsML": {
+  "id": "A5003562101",
+  "name": "Oriol Vinyals",
+  "works": 218,
+  "citations": 184822,
+  "hIndex": 99,
+  "institution": "",
+  "topics": [
+   "Speech Recognition and Synthesis",
+   "Topic Modeling",
+   "Speech and Audio Processing"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "rasbt": {
+  "id": "A5053156269",
+  "name": "Sebastian Raschka",
+  "works": 71,
+  "citations": 4698,
+  "hIndex": 21,
+  "institution": "",
+  "topics": [
+   "Computational Drug Discovery Methods",
+   "Data Mining and Machine Learning Applications",
+   "Machine Learning and Data Classification"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "jeremyphoward": {
+  "id": "A5007075789",
+  "name": "Jeremy Howard",
+  "works": 119,
+  "citations": 5891,
+  "hIndex": 32,
+  "institution": "Johns Hopkins University",
+  "topics": [
+   "Historical Art and Culture Studies",
+   "Historical Art and Architecture Studies",
+   "Biographical and Historical Analysis"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "tri_dao": {
+  "id": "A5091734792",
+  "name": "Tri Dao",
+  "works": 79,
+  "citations": 4907,
+  "hIndex": 21,
+  "institution": "Princeton University",
+  "topics": [
+   "Advanced Neural Network Applications",
+   "Topic Modeling",
+   "Natural Language Processing Techniques"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "soumithchintala": {
+  "id": "A5002078510",
+  "name": "Soumith Chintala",
+  "works": 59,
+  "citations": 71424,
+  "hIndex": 27,
+  "institution": "New York University",
+  "topics": [
+   "Advanced Neural Network Applications",
+   "Reinforcement Learning in Robotics",
+   "Neural Networks and Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "lilianweng": {
+  "id": "A5103810699",
+  "name": "Lilian Weng",
+  "works": 50,
+  "citations": 8933,
+  "hIndex": 20,
+  "institution": "",
+  "topics": [
+   "Complex Network Analysis Techniques",
+   "Social Media and Politics",
+   "Misinformation and Its Impacts"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "johnschulman2": {
+  "id": "A5009037058",
+  "name": "John Schulman",
+  "works": 54,
+  "citations": 25541,
+  "hIndex": 37,
+  "institution": "OpenAI (United States)",
+  "topics": [
+   "Reinforcement Learning in Robotics",
+   "Domain Adaptation and Few-Shot Learning",
+   "Artificial Intelligence in Games"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "hwchung27": {
+  "id": "A5051828575",
+  "name": "Hyung Won Chung",
+  "works": 64,
+  "citations": 13927,
+  "hIndex": 34,
+  "institution": "OpenAI (United States)",
+  "topics": [
+   "Topic Modeling",
+   "Natural Language Processing Techniques",
+   "Membrane Separation Technologies"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "__kolesnikov__": {
+  "id": "A5000026575",
+  "name": "Alexander Kolesnikov",
+  "works": 159,
+  "citations": 37888,
+  "hIndex": 33,
+  "institution": "Admiral Ushakov State Maritime University",
+  "topics": [
+   "Advanced Neural Network Applications",
+   "Trypanosoma species research and implications",
+   "Domain Adaptation and Few-Shot Learning"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "XiaohuaZhai": {
+  "id": "A5071668416",
+  "name": "Xiaohua Zhai",
+  "works": 77,
+  "citations": 33271,
+  "hIndex": 38,
+  "institution": "Google DeepMind (United Kingdom)",
+  "topics": [
+   "Advanced Neural Network Applications",
+   "Domain Adaptation and Few-Shot Learning",
+   "Multimodal Machine Learning Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "YiTayML": {
+  "id": "A5103069680",
+  "name": "Yi Tay",
+  "works": 157,
+  "citations": 14525,
+  "hIndex": 48,
+  "institution": "",
+  "topics": [
+   "Topic Modeling",
+   "Natural Language Processing Techniques",
+   "Information Retrieval and Search Behavior"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "quocleix": {
+  "id": "A5088551093",
+  "name": "Quoc Viet Le",
+  "works": 314,
+  "citations": 196225,
+  "hIndex": 127,
+  "institution": "University of California San Diego",
+  "topics": [
+   "Advanced Neural Network Applications",
+   "Topic Modeling",
+   "Domain Adaptation and Few-Shot Learning"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "denny_zhou": {
+  "id": "A5061512999",
+  "name": "Denny Zhou",
+  "works": 89,
+  "citations": 19591,
+  "hIndex": 35,
+  "institution": "Google (United States)",
+  "topics": [
+   "Topic Modeling",
+   "Natural Language Processing Techniques",
+   "Domain Adaptation and Few-Shot Learning"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "bneyshabur": {
+  "id": "A5035369215",
+  "name": "Behnam Neyshabur",
+  "works": 71,
+  "citations": 8197,
+  "hIndex": 37,
+  "institution": "",
+  "topics": [
+   "Stochastic Gradient Optimization Techniques",
+   "Domain Adaptation and Few-Shot Learning",
+   "Neural Networks and Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "NoamShazeer": {
+  "id": "A5021878400",
+  "name": "Noam Shazeer",
+  "works": 58,
+  "citations": 103397,
+  "hIndex": 37,
+  "institution": "Google (United States)",
+  "topics": [
+   "Natural Language Processing Techniques",
+   "Topic Modeling",
+   "Advanced Neural Network Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "sedielem": {
+  "id": "A5034960578",
+  "name": "Sander Dieleman",
+  "works": 63,
+  "citations": 29182,
+  "hIndex": 29,
+  "institution": "Google DeepMind (United Kingdom)",
+  "topics": [
+   "Music and Audio Processing",
+   "Speech Recognition and Synthesis",
+   "Music Technology and Sound Studies"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "NandoDF": {
+  "id": "A5082304130",
+  "name": "Nando de Freitas",
+  "works": 248,
+  "citations": 32644,
+  "hIndex": 61,
+  "institution": "",
+  "topics": [
+   "Reinforcement Learning in Robotics",
+   "Markov Chains and Monte Carlo Methods",
+   "Gaussian Processes and Bayesian Inference"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "shakir_za": {
+  "id": "A5084530286",
+  "name": "Shakir Mohamed",
+  "works": 79,
+  "citations": 20283,
+  "hIndex": 39,
+  "institution": "Google DeepMind (United Kingdom)",
+  "topics": [
+   "Gaussian Processes and Bayesian Inference",
+   "Generative Adversarial Networks and Image Synthesis",
+   "Neural Networks and Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "maxjaderberg": {
+  "id": "A5004153109",
+  "name": "Max Jaderberg",
+  "works": 40,
+  "citations": 33832,
+  "hIndex": 30,
+  "institution": "",
+  "topics": [
+   "Reinforcement Learning in Robotics",
+   "Advanced Neural Network Applications",
+   "Artificial Intelligence in Games"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "_rockt": {
+  "id": "A5079315903",
+  "name": "Tim Rocktäschel",
+  "works": 137,
+  "citations": 12032,
+  "hIndex": 37,
+  "institution": "University College London",
+  "topics": [
+   "Topic Modeling",
+   "Reinforcement Learning in Robotics",
+   "Artificial Intelligence in Games"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "egrefen": {
+  "id": "A5023508792",
+  "name": "Edward Grefenstette",
+  "works": 116,
+  "citations": 13436,
+  "hIndex": 34,
+  "institution": "Google (United States)",
+  "topics": [
+   "Topic Modeling",
+   "Natural Language Processing Techniques",
+   "Reinforcement Learning in Robotics"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "PetarV_93": {
+  "id": "A5008869927",
+  "name": "Petar Veličković",
+  "works": 121,
+  "citations": 18647,
+  "hIndex": 26,
+  "institution": "Google (United States)",
+  "topics": [
+   "Advanced Graph Neural Networks",
+   "Graph Theory and Algorithms",
+   "Neural Networks and Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "sirbayes": {
+  "id": "A5002713363",
+  "name": "Kevin P. Murphy",
+  "works": 94,
+  "citations": 56140,
+  "hIndex": 56,
+  "institution": "University of British Columbia",
+  "topics": [
+   "Advanced Neural Network Applications",
+   "Domain Adaptation and Few-Shot Learning",
+   "Advanced Image and Video Retrieval Techniques"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "dustinvtran": {
+  "id": "A5081819708",
+  "name": "Dustin Tran",
+  "works": 76,
+  "citations": 6286,
+  "hIndex": 35,
+  "institution": "University of California, Santa Cruz",
+  "topics": [
+   "Gaussian Processes and Bayesian Inference",
+   "Markov Chains and Monte Carlo Methods",
+   "Advanced Neural Network Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "ShaneLegg": {
+  "id": "A5008987732",
+  "name": "Shane Legg",
+  "works": 96,
+  "citations": 36417,
+  "hIndex": 27,
+  "institution": "Google DeepMind (United Kingdom)",
+  "topics": [
+   "Reinforcement Learning in Robotics",
+   "Artificial Intelligence Applications",
+   "AI-based Problem Solving and Planning"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "SebastienBubeck": {
+  "id": "A5021842384",
+  "name": "Sébastien Bubeck",
+  "works": 151,
+  "citations": 13557,
+  "hIndex": 45,
+  "institution": "Microsoft (United States)",
+  "topics": [
+   "Optimization and Search Problems",
+   "Advanced Bandit Algorithms Research",
+   "Reinforcement Learning in Robotics"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "sea_snell": {
+  "id": "A5052858739",
+  "name": "Charlie Snell",
+  "works": 19,
+  "citations": 103,
+  "hIndex": 6,
+  "institution": "University of California, Berkeley",
+  "topics": [
+   "Natural Language Processing Techniques",
+   "Topic Modeling",
+   "Domain Adaptation and Few-Shot Learning"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "ericzelikman": {
+  "id": "A5074923579",
+  "name": "Eric Zelikman",
+  "works": 27,
+  "citations": 620,
+  "hIndex": 9,
+  "institution": "Stanford University",
+  "topics": [
+   "Topic Modeling",
+   "Natural Language Processing Techniques",
+   "Logic, Reasoning, and Knowledge"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "cHHillee": {
+  "id": "A5008410925",
+  "name": "Horace He",
+  "works": 20,
+  "citations": 2388,
+  "hIndex": 11,
+  "institution": "Meta (United States)",
+  "topics": [
+   "Parallel Computing and Optimization Techniques",
+   "Topic Modeling",
+   "Advanced Neural Network Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "McaleerStephen": {
+  "id": "A5064779744",
+  "name": "Stephen McAleer",
+  "works": 73,
+  "citations": 2602,
+  "hIndex": 15,
+  "institution": "Anthropic (United States)",
+  "topics": [
+   "Reinforcement Learning in Robotics",
+   "Artificial Intelligence in Games",
+   "Game Theory and Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "ArmenAgha": {
+  "id": "A5062471396",
+  "name": "Armen Aghajanyan",
+  "works": 40,
+  "citations": 1971,
+  "hIndex": 17,
+  "institution": "",
+  "topics": [
+   "Topic Modeling",
+   "Natural Language Processing Techniques",
+   "Multimodal Machine Learning Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "percyliang": {
+  "id": "A5025255782",
+  "name": "Percy Liang",
+  "works": 462,
+  "citations": 49888,
+  "hIndex": 91,
+  "institution": "Cornell University",
+  "topics": [
+   "Topic Modeling",
+   "Natural Language Processing Techniques",
+   "Adversarial Robustness in Machine Learning"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "tatsu_hashimoto": {
+  "id": "A5015518638",
+  "name": "Tatsunori Hashimoto",
+  "works": 198,
+  "citations": 12359,
+  "hIndex": 38,
+  "institution": "Stanford University",
+  "topics": [
+   "Topic Modeling",
+   "Natural Language Processing Techniques",
+   "Adversarial Robustness in Machine Learning"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "Diyi_Yang": {
+  "id": "A5089413311",
+  "name": "Diyi Yang",
+  "works": 492,
+  "citations": 15299,
+  "hIndex": 50,
+  "institution": "Agency for Science, Technology and Research",
+  "topics": [
+   "Topic Modeling",
+   "Natural Language Processing Techniques",
+   "Speech and dialogue systems"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "jacobandreas": {
+  "id": "A5070829652",
+  "name": "Jacob Andreas",
+  "works": 235,
+  "citations": 7137,
+  "hIndex": 40,
+  "institution": "IBM (United States)",
+  "topics": [
+   "Natural Language Processing Techniques",
+   "Topic Modeling",
+   "Multimodal Machine Learning Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "tomgoldsteincs": {
+  "id": "A5060687985",
+  "name": "Tom Goldstein",
+  "works": 352,
+  "citations": 16749,
+  "hIndex": 52,
+  "institution": "Lawrence Livermore National Laboratory",
+  "topics": [
+   "Adversarial Robustness in Machine Learning",
+   "Advanced Neural Network Applications",
+   "Domain Adaptation and Few-Shot Learning"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "kchonyc": {
+  "id": "A5091175785",
+  "name": "Kyunghyun Cho",
+  "works": 618,
+  "citations": 108965,
+  "hIndex": 95,
+  "institution": "Canadian Institute for Advanced Research",
+  "topics": [
+   "Topic Modeling",
+   "Natural Language Processing Techniques",
+   "Speech Recognition and Synthesis"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "YejinChoinka": {
+  "id": "A5102992157",
+  "name": "Yejin Choi",
+  "works": 437,
+  "citations": 37002,
+  "hIndex": 89,
+  "institution": "Stanford University",
+  "topics": [
+   "Topic Modeling",
+   "Natural Language Processing Techniques",
+   "Multimodal Machine Learning Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "OfirPress": {
+  "id": "A5035538068",
+  "name": "Ofir Press",
+  "works": 27,
+  "citations": 2112,
+  "hIndex": 13,
+  "institution": "",
+  "topics": [
+   "Topic Modeling",
+   "Natural Language Processing Techniques",
+   "Software Engineering Research"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "jure": {
+  "id": "A5091272738",
+  "name": "Jure Leskovec",
+  "works": 732,
+  "citations": 131652,
+  "hIndex": 145,
+  "institution": "Stanford University",
+  "topics": [
+   "Complex Network Analysis Techniques",
+   "Advanced Graph Neural Networks",
+   "Graph Theory and Algorithms"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "mmbronstein": {
+  "id": "A5013638126",
+  "name": "Michael M. Bronstein",
+  "works": 480,
+  "citations": 35254,
+  "hIndex": 77,
+  "institution": "Austrian Academy of Sciences",
+  "topics": [
+   "3D Shape Modeling and Analysis",
+   "Topological and Geometric Data Analysis",
+   "Advanced Graph Neural Networks"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "jbhuang0604": {
+  "id": "A5101766030",
+  "name": "Jia‐Bin Huang",
+  "works": 199,
+  "citations": 26970,
+  "hIndex": 60,
+  "institution": "University of Maryland, College Park",
+  "topics": [
+   "Generative Adversarial Networks and Image Synthesis",
+   "Advanced Vision and Imaging",
+   "3D Shape Modeling and Analysis"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "jeffclune": {
+  "id": "A5112191507",
+  "name": "Jeff Clune",
+  "works": 195,
+  "citations": 22271,
+  "hIndex": 49,
+  "institution": "Canadian Institute for Advanced Research",
+  "topics": [
+   "Evolutionary Algorithms and Applications",
+   "Evolution and Genetic Dynamics",
+   "Reinforcement Learning in Robotics"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "SchmidhuberAI": {
+  "id": "A5071172037",
+  "name": "Jürgen Schmidhuber",
+  "works": 646,
+  "citations": 191302,
+  "hIndex": 93,
+  "institution": "King Abdullah University of Science and Technology",
+  "topics": [
+   "Neural Networks and Applications",
+   "Reinforcement Learning in Robotics",
+   "Evolutionary Algorithms and Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "RichardSSutton": {
+  "id": "A5004923102",
+  "name": "Richard S. Sutton",
+  "works": 247,
+  "citations": 69150,
+  "hIndex": 66,
+  "institution": "Canadian Institute for Advanced Research",
+  "topics": [
+   "Reinforcement Learning in Robotics",
+   "Adaptive Dynamic Programming Control",
+   "Machine Learning and Algorithms"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "hugo_larochelle": {
+  "id": "A5019862529",
+  "name": "Hugo Larochelle",
+  "works": 213,
+  "citations": 66352,
+  "hIndex": 61,
+  "institution": "Centre Universitaire de Mila",
+  "topics": [
+   "Domain Adaptation and Few-Shot Learning",
+   "Neural Networks and Applications",
+   "Advanced Neural Network Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "DimitrisPapail": {
+  "id": "A5018630988",
+  "name": "Dimitris Papailiopoulos",
+  "works": 130,
+  "citations": 6411,
+  "hIndex": 32,
+  "institution": "Microsoft (United States)",
+  "topics": [
+   "Stochastic Gradient Optimization Techniques",
+   "Topic Modeling",
+   "Advanced Data Storage Technologies"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "PreetumNakkiran": {
+  "id": "A5110716768",
+  "name": "Preetum Nakkiran",
+  "works": 62,
+  "citations": 1393,
+  "hIndex": 13,
+  "institution": "Carnegie Mellon University",
+  "topics": [
+   "Domain Adaptation and Few-Shot Learning",
+   "Adversarial Robustness in Machine Learning",
+   "Stochastic Gradient Optimization Techniques"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "lateinteraction": {
+  "id": "A5015201177",
+  "name": "Omar Khattab",
+  "works": 90,
+  "citations": 5703,
+  "hIndex": 18,
+  "institution": "MIT Computer Science and Artificial Intelligence Laboratory",
+  "topics": [
+   "Topic Modeling",
+   "Information Retrieval and Search Behavior",
+   "Natural Language Processing Techniques"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "ChrisGPotts": {
+  "id": "A5042601761",
+  "name": "Christopher Potts",
+  "works": 388,
+  "citations": 28707,
+  "hIndex": 54,
+  "institution": "Tilde (Estonia)",
+  "topics": [
+   "Topic Modeling",
+   "Syntax, Semantics, Linguistic Variation",
+   "Natural Language Processing Techniques"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "aleks_madry": {
+  "id": "A5032574693",
+  "name": "Aleksander Mądry",
+  "works": 141,
+  "citations": 14455,
+  "hIndex": 43,
+  "institution": "Massachusetts Institute of Technology",
+  "topics": [
+   "Adversarial Robustness in Machine Learning",
+   "Complexity and Algorithms in Graphs",
+   "Machine Learning and Data Classification"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "boazbaraktcs": {
+  "id": "A5102710346",
+  "name": "Boaz Barak",
+  "works": 193,
+  "citations": 13933,
+  "hIndex": 50,
+  "institution": "Harvard University",
+  "topics": [
+   "Complexity and Algorithms in Graphs",
+   "Cryptography and Data Security",
+   "Computability, Logic, AI Algorithms"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "DavidDuvenaud": {
+  "id": "A5030409494",
+  "name": "David Duvenaud",
+  "works": 102,
+  "citations": 15044,
+  "hIndex": 44,
+  "institution": "University of British Columbia",
+  "topics": [
+   "Gaussian Processes and Bayesian Inference",
+   "Neural Networks and Applications",
+   "Markov Chains and Monte Carlo Methods"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "michael_nielsen": {
+  "id": "A5068097121",
+  "name": "Michael Aaron Nielsen",
+  "works": 185,
+  "citations": 50230,
+  "hIndex": 59,
+  "institution": "",
+  "topics": [
+   "Quantum Information and Cryptography",
+   "Quantum Computing Algorithms and Architecture",
+   "Quantum Mechanics and Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "deliprao": {
+  "id": "A5113813635",
+  "name": "Delip Rao",
+  "works": 27,
+  "citations": 1916,
+  "hIndex": 13,
+  "institution": "University of Pennsylvania",
+  "topics": [
+   "Topic Modeling",
+   "Natural Language Processing Techniques",
+   "Data Quality and Management"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "ethanCaballero": {
+  "id": "A5052911806",
+  "name": "Ethan Caballero",
+  "works": 11,
+  "citations": 573,
+  "hIndex": 5,
+  "institution": "",
+  "topics": [
+   "Domain Adaptation and Few-Shot Learning",
+   "Machine Learning and Data Classification",
+   "Advanced Neural Network Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "nabla_theta": {
+  "id": "A5057062066",
+  "name": "Leo Gao",
+  "works": 28,
+  "citations": 3115,
+  "hIndex": 15,
+  "institution": "",
+  "topics": [
+   "Topic Modeling",
+   "Natural Language Processing Techniques",
+   "Domain Adaptation and Few-Shot Learning"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "hausman_k": {
+  "id": "A5088777896",
+  "name": "Karol Hausman",
+  "works": 109,
+  "citations": 7525,
+  "hIndex": 32,
+  "institution": "",
+  "topics": [
+   "Reinforcement Learning in Robotics",
+   "Robot Manipulation and Learning",
+   "Domain Adaptation and Few-Shot Learning"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "ericjang11": {
+  "id": "A5083516691",
+  "name": "Eric Jang",
+  "works": 22,
+  "citations": 6201,
+  "hIndex": 17,
+  "institution": "Google (United States)",
+  "topics": [
+   "Reinforcement Learning in Robotics",
+   "Robot Manipulation and Learning",
+   "Domain Adaptation and Few-Shot Learning"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "pabbeel": {
+  "id": "A5049349154",
+  "name": "Pieter Abbeel",
+  "works": 714,
+  "citations": 106900,
+  "hIndex": 134,
+  "institution": "Amazon (United States)",
+  "topics": [
+   "Reinforcement Learning in Robotics",
+   "Robot Manipulation and Learning",
+   "Domain Adaptation and Few-Shot Learning"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "svlevine": {
+  "id": "A5026322200",
+  "name": "Sergey Levine",
+  "works": 760,
+  "citations": 88798,
+  "hIndex": 136,
+  "institution": "Berkeley College",
+  "topics": [
+   "Reinforcement Learning in Robotics",
+   "Domain Adaptation and Few-Shot Learning",
+   "Robot Manipulation and Learning"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "chelseabfinn": {
+  "id": "A5005431772",
+  "name": "Chelsea Finn",
+  "works": 384,
+  "citations": 36556,
+  "hIndex": 74,
+  "institution": "University of Washington",
+  "topics": [
+   "Reinforcement Learning in Robotics",
+   "Domain Adaptation and Few-Shot Learning",
+   "Robot Manipulation and Learning"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "yukez": {
+  "id": "A5030826237",
+  "name": "Yuke Zhu",
+  "works": 217,
+  "citations": 17096,
+  "hIndex": 48,
+  "institution": "Nvidia (United Kingdom)",
+  "topics": [
+   "Reinforcement Learning in Robotics",
+   "Robot Manipulation and Learning",
+   "Domain Adaptation and Few-Shot Learning"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "random_walker": {
+  "id": "A5058102069",
+  "name": "Arvind Narayanan",
+  "works": 231,
+  "citations": 21866,
+  "hIndex": 58,
+  "institution": "Princeton University",
+  "topics": [
+   "Ethics and Social Impacts of AI",
+   "Privacy, Security, and Data Protection",
+   "Privacy-Preserving Technologies in Data"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "sayashk": {
+  "id": "A5063345981",
+  "name": "Sayash Kapoor",
+  "works": 69,
+  "citations": 2414,
+  "hIndex": 16,
+  "institution": "Princeton University",
+  "topics": [
+   "Ethics and Social Impacts of AI",
+   "Artificial Intelligence Applications",
+   "Scientific Computing and Data Management"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "paulfchristiano": {
+  "id": "A5037736834",
+  "name": "Paul F. Christiano",
+  "works": 32,
+  "citations": 7700,
+  "hIndex": 18,
+  "institution": "",
+  "topics": [
+   "Machine Learning and Algorithms",
+   "Game Theory and Applications",
+   "Quantum Information and Cryptography"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "janleike": {
+  "id": "A5090592321",
+  "name": "Jan Leike",
+  "works": 75,
+  "citations": 11288,
+  "hIndex": 22,
+  "institution": "American Anthropological Association",
+  "topics": [
+   "Reinforcement Learning in Robotics",
+   "Topic Modeling",
+   "Machine Learning and Algorithms"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "ch402": {
+  "id": "A5039751155",
+  "name": "Chris Olah",
+  "works": 31,
+  "citations": 14499,
+  "hIndex": 19,
+  "institution": "",
+  "topics": [
+   "Topic Modeling",
+   "Advanced Neural Network Applications",
+   "Natural Language Processing Techniques"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "sleepinyourhat": {
+  "id": "A5018067914",
+  "name": "Sam Bowman",
+  "works": 5,
+  "citations": 333,
+  "hIndex": 3,
+  "institution": "",
+  "topics": [
+   "Adversarial Robustness in Machine Learning",
+   "Ethics and Social Impacts of AI",
+   "Topic Modeling"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "AmandaAskell": {
+  "id": "A5030305998",
+  "name": "Amanda Askell",
+  "works": 33,
+  "citations": 42355,
+  "hIndex": 23,
+  "institution": "Anthropic (United States)",
+  "topics": [
+   "Topic Modeling",
+   "Ethics and Social Impacts of AI",
+   "Natural Language Processing Techniques"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "bshlgrs": {
+  "id": "A5050408969",
+  "name": "Buck Shlegeris",
+  "works": 23,
+  "citations": 212,
+  "hIndex": 6,
+  "institution": "Redwood Scientific (United States)",
+  "topics": [
+   "Adversarial Robustness in Machine Learning",
+   "Ethics and Social Impacts of AI",
+   "Security and Verification in Computing"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "RyanGreenblatt": {
+  "id": "A5037548279",
+  "name": "Ryan Greenblatt",
+  "works": 13,
+  "citations": 85,
+  "hIndex": 3,
+  "institution": "",
+  "topics": [
+   "Adversarial Robustness in Machine Learning",
+   "Ethics and Social Impacts of AI",
+   "Topic Modeling"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "jachiam0": {
+  "id": "A5032275803",
+  "name": "Joshua Achiam",
+  "works": 13,
+  "citations": 4190,
+  "hIndex": 9,
+  "institution": "",
+  "topics": [
+   "Reinforcement Learning in Robotics",
+   "Adaptive Dynamic Programming Control",
+   "Machine Learning and Algorithms"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "Yoshua_Bengio": {
+  "id": "A5086198262",
+  "name": "Yoshua Bengio",
+  "works": 1574,
+  "citations": 578187,
+  "hIndex": 201,
+  "institution": "Canadian Institute for Advanced Research",
+  "topics": [
+   "Neural Networks and Applications",
+   "Topic Modeling",
+   "Domain Adaptation and Few-Shot Learning"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "NPCollapse": {
+  "id": "A5060025182",
+  "name": "Connor Leahy",
+  "works": 9,
+  "citations": 1290,
+  "hIndex": 5,
+  "institution": "",
+  "topics": [
+   "Topic Modeling",
+   "Natural Language Processing Techniques",
+   "Advanced Neural Network Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "DKokotajlo": {
+  "id": "A5051966605",
+  "name": "Daniel Kokotajlo",
+  "works": 6,
+  "citations": 78,
+  "hIndex": 3,
+  "institution": "",
+  "topics": [
+   "Ethics and Social Impacts of AI",
+   "Adversarial Robustness in Machine Learning",
+   "Safety Systems Engineering in Autonomy"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "eli_lifland": {
+  "id": "A5014105687",
+  "name": "Eli Lifland",
+  "works": 9,
+  "citations": 865,
+  "hIndex": 7,
+  "institution": "University of Virginia",
+  "topics": [
+   "Topic Modeling",
+   "Adversarial Robustness in Machine Learning",
+   "Natural Language Processing Techniques"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "leopoldasch": {
+  "id": "A5114736710",
+  "name": "Leopold Aschenbrenner",
+  "works": 5,
+  "citations": 34,
+  "hIndex": 1,
+  "institution": "",
+  "topics": [
+   "Ethics and Social Impacts of AI",
+   "Artificial Intelligence Applications",
+   "Military Strategy and Technology"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "jackclarkSF": {
+  "id": "A5031107879",
+  "name": "Jack Clark",
+  "works": 19,
+  "citations": 33515,
+  "hIndex": 13,
+  "institution": "",
+  "topics": [
+   "Ethics and Social Impacts of AI",
+   "Artificial Intelligence Applications",
+   "Topic Modeling"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "Miles_Brundage": {
+  "id": "A5066559387",
+  "name": "Miles Brundage",
+  "works": 36,
+  "citations": 8932,
+  "hIndex": 20,
+  "institution": "",
+  "topics": [
+   "Ethics and Social Impacts of AI",
+   "Digitalization, Law, and Regulation",
+   "Artificial Intelligence Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "ohlennart": {
+  "id": "A5035147412",
+  "name": "Lennart Heim",
+  "works": 43,
+  "citations": 724,
+  "hIndex": 9,
+  "institution": "Centre for the Governance of AI",
+  "topics": [
+   "Ethics and Social Impacts of AI",
+   "Digitalization, Law, and Regulation",
+   "Law, AI, and Intellectual Property"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "sebkrier": {
+  "id": "A5095912645",
+  "name": "Sébastien Krier",
+  "works": 13,
+  "citations": 110,
+  "hIndex": 3,
+  "institution": "Georgia Institute of Technology",
+  "topics": [
+   "Ethics and Social Impacts of AI",
+   "Multi-Agent Systems and Negotiation",
+   "Digitalization, Law, and Regulation"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "tegmark": {
+  "id": "A5091601455",
+  "name": "Max Tegmark",
+  "works": 654,
+  "citations": 76376,
+  "hIndex": 121,
+  "institution": "The NSF AI Institute for Artificial Intelligence and Fundamental Interactions",
+  "topics": [
+   "Cosmology and Gravitation Theories",
+   "Galaxies: Formation, Evolution, Phenomena",
+   "Dark Matter and Cosmic Phenomena"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "willmacaskill": {
+  "id": "A5073466841",
+  "name": "William MacAskill",
+  "works": 61,
+  "citations": 1084,
+  "hIndex": 17,
+  "institution": "Griffith University",
+  "topics": [
+   "Philosophical Ethics and Theory",
+   "Political Philosophy and Ethics",
+   "Nonprofit Sector and Volunteering"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "tobyordoxford": {
+  "id": "A5073888549",
+  "name": "Toby Ord",
+  "works": 95,
+  "citations": 2401,
+  "hIndex": 19,
+  "institution": "University of Oxford",
+  "topics": [
+   "Philosophical Ethics and Theory",
+   "Political Philosophy and Ethics",
+   "Computability, Logic, AI Algorithms"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "savvyRL": {
+  "id": "A5062174486",
+  "name": "Rosanne Liu",
+  "works": 18,
+  "citations": 2448,
+  "hIndex": 11,
+  "institution": "",
+  "topics": [
+   "Advanced Neural Network Applications",
+   "Domain Adaptation and Few-Shot Learning",
+   "Neural Networks and Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "roydanroy": {
+  "id": "A5110275739",
+  "name": "Daniel M. Roy",
+  "works": 141,
+  "citations": 4521,
+  "hIndex": 30,
+  "institution": "Vector Institute",
+  "topics": [
+   "Stochastic Gradient Optimization Techniques",
+   "Machine Learning and Algorithms",
+   "Bayesian Modeling and Causal Inference"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "tdietterich": {
+  "id": "A5074537073",
+  "name": "Thomas G. Dietterich",
+  "works": 463,
+  "citations": 43882,
+  "hIndex": 70,
+  "institution": "Oregon State University",
+  "topics": [
+   "Machine Learning and Algorithms",
+   "AI-based Problem Solving and Planning",
+   "Reinforcement Learning in Robotics"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "zacharylipton": {
+  "id": "A5029448258",
+  "name": "Zachary C. Lipton",
+  "works": 233,
+  "citations": 18144,
+  "hIndex": 49,
+  "institution": "Carnegie Mellon University",
+  "topics": [
+   "Topic Modeling",
+   "Domain Adaptation and Few-Shot Learning",
+   "Natural Language Processing Techniques"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "thegautamkamath": {
+  "id": "A5047778197",
+  "name": "Gautam Kamath",
+  "works": 109,
+  "citations": 1823,
+  "hIndex": 23,
+  "institution": "Northeastern University",
+  "topics": [
+   "Privacy-Preserving Technologies in Data",
+   "Adversarial Robustness in Machine Learning",
+   "Complexity and Algorithms in Graphs"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "docmilanfar": {
+  "id": "A5002085979",
+  "name": "Peyman Milanfar",
+  "works": 357,
+  "citations": 22915,
+  "hIndex": 68,
+  "institution": "",
+  "topics": [
+   "Image and Signal Denoising Methods",
+   "Advanced Image Processing Techniques",
+   "Image Enhancement Techniques"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "natashajaques": {
+  "id": "A5046953322",
+  "name": "Natasha Jaques",
+  "works": 108,
+  "citations": 4112,
+  "hIndex": 26,
+  "institution": "Northeastern University",
+  "topics": [
+   "Reinforcement Learning in Robotics",
+   "Topic Modeling",
+   "Speech and dialogue systems"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "ctnzr": {
+  "id": "A5066242985",
+  "name": "Bryan Catanzaro",
+  "works": 236,
+  "citations": 25481,
+  "hIndex": 53,
+  "institution": "Boston University",
+  "topics": [
+   "Topic Modeling",
+   "Natural Language Processing Techniques",
+   "Multimodal Machine Learning Applications"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "FelixHill84": {
+  "id": "A5010396788",
+  "name": "Felix Hill",
+  "works": 94,
+  "citations": 13725,
+  "hIndex": 37,
+  "institution": "",
+  "topics": [
+   "Topic Modeling",
+   "Natural Language Processing Techniques",
+   "Domain Adaptation and Few-Shot Learning"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "littmath": {
+  "id": "A5013284360",
+  "name": "Daniel Litt",
+  "works": 42,
+  "citations": 96,
+  "hIndex": 7,
+  "institution": "",
+  "topics": [
+   "Algebraic Geometry and Number Theory",
+   "Advanced Algebra and Geometry",
+   "Geometric and Algebraic Topology"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "MelMitchell1": {
+  "id": "A5086956524",
+  "name": "Melanie Mitchell",
+  "works": 155,
+  "citations": 22589,
+  "hIndex": 47,
+  "institution": "Santa Fe Institute",
+  "topics": [
+   "Evolutionary Algorithms and Applications",
+   "Cellular Automata and Applications",
+   "Evolution and Genetic Dynamics"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "AlexGDimakis": {
+  "id": "A5014141359",
+  "name": "Alexandros G. Dimakis",
+  "works": 307,
+  "citations": 19009,
+  "hIndex": 60,
+  "institution": "University of Washington",
+  "topics": [
+   "Advanced Data Storage Technologies",
+   "Sparse and Compressive Sensing Techniques",
+   "Error Correcting Code Techniques"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "ancadianadragan": {
+  "id": "A5005997281",
+  "name": "Anca D. Dragan",
+  "works": 211,
+  "citations": 10472,
+  "hIndex": 51,
+  "institution": "",
+  "topics": [
+   "Reinforcement Learning in Robotics",
+   "Robot Manipulation and Learning",
+   "Social Robot Interaction and HRI"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "LiamFedus": {
+  "id": "A5029678131",
+  "name": "Liam Fedus",
+  "works": 7,
+  "citations": 3100,
+  "hIndex": 5,
+  "institution": "",
+  "topics": [
+   "Topic Modeling",
+   "Domain Adaptation and Few-Shot Learning",
+   "Natural Language Processing Techniques"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "RemiCadene": {
+  "id": "A5036295862",
+  "name": "Rémi Cadène",
+  "works": 40,
+  "citations": 3037,
+  "hIndex": 18,
+  "institution": "University of Oxford",
+  "topics": [
+   "Multimodal Machine Learning Applications",
+   "Advanced Neural Network Applications",
+   "Explainable Artificial Intelligence (XAI)"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "getjonwithit": {
+  "id": "A5009241097",
+  "name": "Jonathan Gorard",
+  "works": 30,
+  "citations": 174,
+  "hIndex": 8,
+  "institution": "Princeton University",
+  "topics": [
+   "Cellular Automata and Applications",
+   "Relativity and Gravitational Theory",
+   "Pulsars and Gravitational Waves Research"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "ChrSzegedy": {
+  "id": "A5002183320",
+  "name": "Christian Szegedy",
+  "works": 69,
+  "citations": 186302,
+  "hIndex": 28,
+  "institution": "",
+  "topics": [
+   "Advanced Neural Network Applications",
+   "Logic, programming, and type systems",
+   "Mathematics, Computing, and Information Processing"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "ShamKakade6": {
+  "id": "A5108381794",
+  "name": "Sham M. Kakade",
+  "works": 373,
+  "citations": 21941,
+  "hIndex": 71,
+  "institution": "Harvard University",
+  "topics": [
+   "Machine Learning and Algorithms",
+   "Stochastic Gradient Optimization Techniques",
+   "Advanced Bandit Algorithms Research"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "Azaliamirh": {
+  "id": "A5070731184",
+  "name": "Azalia Mirhoseini",
+  "works": 134,
+  "citations": 4100,
+  "hIndex": 25,
+  "institution": "Stanford University",
+  "topics": [
+   "Embedded Systems Design Techniques",
+   "Parallel Computing and Optimization Techniques",
+   "Topic Modeling"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "HochreiterSepp": {
+  "id": "A5053148274",
+  "name": "Sepp Hochreiter",
+  "works": 316,
+  "citations": 136604,
+  "hIndex": 56,
+  "institution": "Johannes Kepler University of Linz",
+  "topics": [
+   "Neural Networks and Applications",
+   "Hydrological Forecasting Using AI",
+   "Computational Drug Discovery Methods"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ },
+ "josh_tobin_": {
+  "id": "A5073825955",
+  "name": "Josh Tobin",
+  "works": 15,
+  "citations": 6621,
+  "hIndex": 11,
+  "institution": "OpenAI (United States)",
+  "topics": [
+   "Graph theory and applications",
+   "Reinforcement Learning in Robotics",
+   "Robot Manipulation and Learning"
+  ],
+  "verdict": "approved",
+  "via": "name search, reviewed"
+ }
+}
