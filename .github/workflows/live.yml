@@ -16,7 +16,7 @@ concurrency:
 jobs:
   live:
     runs-on: ubuntu-latest
-    timeout-minutes: 50
+    timeout-minutes: 170
     env:
       TWITTERAPI_IO_KEY: ${{ secrets.TWITTERAPI_IO_KEY }}
       FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
@@ -35,6 +35,8 @@ jobs:
         id: pull
         run: scripts/store.sh pull
       - name: Fetch and analyse
+        # A step timeout, under the job's: it fails the step rather than cancelling the job, so the store still saves.
+        timeout-minutes: 150
         run: npm run live
       - name: Save the store
         # Keep what this run fetched even if analysis failed, but only on top of a store that loaded.
