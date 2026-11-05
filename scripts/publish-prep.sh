@@ -29,6 +29,6 @@ done
 
 git -C "$OUT" init -q -b main
 git -C "$OUT" add -A
-git -C "$OUT" -c user.name=Sinem -c user.email=sinem93@gmail.com commit -q -m "AI Lately"
+git -C "$OUT" -c user.name=Sinem -c user.email=sinem93@gmail.com commit -q -m "AI Lately" -m "Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
 git -C "$OUT" remote add origin "$REMOTE"
 echo "Ready: $OUT ($(git -C "$OUT" ls-files | wc -l | tr -d ' ') files, one commit). Push with: git -C $OUT push -u origin main"
