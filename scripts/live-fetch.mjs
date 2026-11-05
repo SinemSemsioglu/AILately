@@ -27,18 +27,20 @@ const now = Date.now();
 const last = state.x?.lastFetch;
 const since = Math.max(last ?? now - 24 * HOUR, now - MAX_GAP);
 const windows = [['new', since, now]];
-if (last) for (const age of REFRESH_AGES) windows.push([`refresh ${age / HOUR}h`, since - age, now - age]);
+// Refreshes stop where the new window starts, so a long gap doesn't pay for the same posts three times.
+if (last) for (const age of REFRESH_AGES) windows.push([`refresh ${age / HOUR}h`, since - age, Math.min(now - age, since)]);
 
 for (const [label, from, to] of windows) {
-  const posts = [];
+  let count = 0;
   for (const q of originalPostQueries(handles, from, to)) {
-    for (const t of await api.search(q)) {
-      const p = normalizeTweet(t);
-      if (p) posts.push(p);
-    }
+    const posts = (await api.search(q)).map(normalizeTweet).filter(Boolean);
+    // Saved query by query, so a failure partway (credits running out) keeps what was already paid for.
+    savePosts(posts);
+    count += posts.length;
+    state.spent = api.spent;
+    saveState(state);
   }
-  savePosts(posts);
-  console.log(`X ${label}: ${posts.length} posts (${new Date(from).toISOString().slice(5, 16)} → ${new Date(to).toISOString().slice(5, 16)})`);
+  console.log(`X ${label}: ${count} posts (${new Date(from).toISOString().slice(5, 16)} → ${new Date(to).toISOString().slice(5, 16)})`);
 }
 
 state.x = { ...state.x, lastFetch: now, first: state.x?.first ?? since };
